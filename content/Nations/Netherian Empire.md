@@ -1,0 +1,1 @@
+An empire of the nations located on the eastern landmass of [[Alethyria]] of [[Virelleth]] to the north, [[Netheria]] in the centre, and [[Suthunam]] to the south.
