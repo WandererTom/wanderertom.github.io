@@ -5,5 +5,5 @@ This is a collection of ideas for our upcoming Dragonbane campaign. I hope to ev
 
 The content in this site is only a starting point. Share your ideas!
 
-Start by checking out the [[World Overview]].
+Start by checking out the [[World Overview]] and then the [[History of Alethyria]].
 
