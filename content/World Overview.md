@@ -12,7 +12,7 @@ In the distant past, many different kin were born unto this world, some believe 
 
 Our story takes place on the continent of [[Alethyria]], a small and isolated group of lands surrounded by a deep and churning ocean. Found in the temperate northern hemisphere, it is home to many kin [[History of Alethyria|whose ancestors ventured across the seas in times past]]. Over time these early settlements evolved into several great civilisations.
 
-On the easternmost part of the continent is [[Kingdom of Vadoria]], occupying the largest expanse of land and several surrounding islands to the north and east.
+On the westernmost part of the continent is [[Kingdom of Vadoria]], occupying the largest expanse of land and several surrounding islands to the north and west.
 
 Carved into the treacherous mountains in the north known as the Jagged Peaks lies the dwarven nation of [[Dunren]].
 
