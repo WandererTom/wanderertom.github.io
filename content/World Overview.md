@@ -20,7 +20,7 @@ On the mainland to the east is the [[Netherian Empire]], composed of the smaller
 
 Off the north-east coast lies a desolate volcanic island that is home to the [[Xendir]].
 
-No nation occupies the southernmost part of the continent. Abandoned following the war of the Old Age, these [[Disputed Lands]] lie uninhabited and sealed to all.
+No nation occupies the southernmost part of the continent. Abandoned following the war of the [[Old Age]], these [[Disputed Lands]] lie uninhabited and sealed to all.
 
 For as long as memories have remained, the inhabitants of [[Alethyria]] have lived in ignorance of the world beyond their shores. Those who occupy the unexplored wider world have so far shown little concern for them, their continents separated by vast and dangerous oceans.
 
@@ -33,23 +33,23 @@ Time in [[Alethyria]] is marked by the movement of the suns. The closest of thes
 
 Each day consists of 24 hours. A period of 300 days marks a Triad, named for its three distinct seasons.
 
-The longest and most pleasant of these seasons is Luminar, bringing 200 long days of warmth and light. As the light progressively fades, Stomrund follows, and with it 50 days of swirling winds, lashing rains, and increasingly dark nights. As the Nearsun dissappears completely from the sky, the season of Bleak brings a relentless and biting cold, and a mere few hours of twilight from the Farsun for 50 days more.
+The longest and most pleasant of these seasons is Luminar, bringing 200 long days of warmth and light. As the light progressively fades, Stomrund follows, and with it 50 days of swirling winds, lashing rains, and increasingly dark nights. As the Nearsun disappears completely from the sky, the season of Bleak brings a relentless and biting cold, and a mere few hours of twilight from the Farsun for 50 days more.
 
 As the cycle ends and repeats, a cascade of glorious light heralds the reemergence of the Nearsun and with it a warmth that rejuvenates the land and causes life to flourish once more.
 #### Calandar & Key Events
 
 The Alethyrians use a simple calendar that charts each triad's 300 days by its three seasons, starting at Luminar 1 and ending at Bleak 50.
 
-Luminar 1 - 200
-Stomrund 1 - 50
-Bleak 1 - 50
+- Luminar 1 - 200
+- Stomrund 1 - 50
+- Bleak 1 - 50
 
 Each triad is contains several key events:
 
-Luminar 1 - Light's Coming
-Luminar 100 - The Everday
-Luminar 190 - Festival of The Fading
-Stomrund 1 - 
-Bleak 1 - Frostborn
-Bleak 37 - Asantia's Sorrow
-Bleak 50 - Bleak's End
+- Luminar 1 - Light's Coming
+- Luminar 100 - The Everday
+- Luminar 190 - Festival of The Fading
+- Stomrund 1 - 
+- Bleak 1 - Frostborn
+- Bleak 37 - Asantia's Sorrow
+- Bleak 50 - Bleak's End

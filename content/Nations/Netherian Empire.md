@@ -1,1 +1,6 @@
-An empire of the nations located on the eastern landmass of [[Alethyria]] of [[Virelleth]] to the north, [[Netheria]] in the centre, and [[Suthunam]] to the south.
+---
+title: Netherian Empire
+draft: false
+tags:
+---
+An empire of the nations found on the eastern landmass of [[Alethyria]], consisting of [[Virelleth]] to the north, [[Netheria]] in the centre, and [[Suthunam]] to the south.
