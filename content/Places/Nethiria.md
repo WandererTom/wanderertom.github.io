@@ -1,5 +1,5 @@
 ---
-title: Netheria
+title: Nethiria
 draft: false
 tags:
 ---
