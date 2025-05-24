@@ -1,0 +1,1 @@
+Manor house in [[Valesview]]. Home to [[Lord Ronald Squinketon]].

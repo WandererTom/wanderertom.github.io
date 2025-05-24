@@ -1,0 +1,1 @@
+A region on the northern part of the [[Kingdom of Vadoria]]. Known for its lush green valley through which flows the [[Evervein]] river.

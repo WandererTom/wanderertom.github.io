@@ -16,7 +16,7 @@ On the westernmost part of the continent is [[Kingdom of Vadoria]], occupying th
 
 Carved into the treacherous mountains in the north known as the Jagged Peaks lies the dwarven nation of [[Dunren]].
 
-On the mainland to the east is the [[Netherian Empire]], composed of the smaller nations of [[Virelleth]] to the north, [[Netheria]] in the centre, and [[Suthunam]] to the south.
+On the mainland to the east is the [[Nethirian Empire]], composed of the smaller nations of [[Virelleth]] to the north, [[Nethiria]] in the centre, and [[Suthunam]] to the south.
 
 Off the north-east coast lies a desolate volcanic island that is home to the [[Xendir]].
 
@@ -24,8 +24,8 @@ No nation occupies the southernmost part of the continent. Abandoned following t
 
 For as long as memories have remained, the inhabitants of [[Alethyria]] have lived in ignorance of the world beyond their shores. Those who occupy the unexplored wider world have so far shown little concern for them, their continents separated by vast and dangerous oceans.
 
-![[Map of Alethyria (draft).jpg]]
-*Map of Alethyria (early draft)*
+![[Map of Alethyria.jpg]]
+*Map of Alethyria*
 
 ### Time & Seasons
 
