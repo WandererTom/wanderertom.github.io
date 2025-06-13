@@ -9,7 +9,5 @@ Chief Protector Unstone
 
 ## Factions
 
-The Order of Eradicators. A group who believe magic should be outlawed to prevent another Rending. They lobby government and seek to find and destroy magical artefacts.
-
-
+- The Order of Eradicators. A group who believe magic should be outlawed to prevent another Rending. They lobby government and seek to find and destroy magical artefacts.
 
