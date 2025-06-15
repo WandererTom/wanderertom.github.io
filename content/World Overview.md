@@ -44,7 +44,7 @@ The Alethyrians use a simple calendar that charts each triad's 300 days by its t
 - Stomrund 1 - 50
 - Bleak 1 - 50
 
-Each triad is contains several key events:
+Each triad contains several key events:
 
 - Luminar 1 - Light's Coming
 - Luminar 100 - The Everday
