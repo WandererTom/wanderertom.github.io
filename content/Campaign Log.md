@@ -46,6 +46,6 @@ Combat erupted. [[@Ichoren]] brutalised one of the soldiers with his fists, imme
 
 The party examined the soldiers, revealing them to be human or elf-like in appearance, but with unusual red skin. [[@Kirou]] detected with his scent they came over the ocean, from a land he did not recognise by smell.
 
-In the aftermath, the guests that remains wandered around. [[Lord Ronald Squinketon]] was concerned [[Commander Eladar Squinketon]] had not returned. 
+In the aftermath, the guests that remained wandered around. [[Lord Ronald Squinketon]] was concerned [[Commander Eladar Squinketon]] had not returned. 
 
 Then party saw [[Lord Timbrel Toodlepip]] sat slumped against a tree, holding a gaping stomach wound...
