@@ -3,11 +3,11 @@ title: "@Ichoren"
 draft: false
 tags:
 ---
-Name: Ichoren Clay
-Kin: Elf
-Age: Young
-Profession: Artisan (Carpenter)
-Player: @Squinky
+Name: Ichoren Clay  
+Kin: Elf  
+Age: Young  
+Profession: Artisan (Carpenter)  
+Player: @Squinky  
 
 ![[Image_Ichoren.jpg|200]]
 
