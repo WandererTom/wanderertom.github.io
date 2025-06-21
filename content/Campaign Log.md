@@ -40,7 +40,7 @@ Then the ships came. The party noticed all along the western coast black shapes 
 
 As the party tried to figure out what was going on, three figures emerged from the tree line. They saw three soldiers, clad in black leather armour and cloaks, their heads hooded and masked up to the eyes, dangerous curved blades in each hand. Beneath their hoods the party could see an unusual pallid red flesh.
 
-The lead solider raised his curved blade and pointed it at the party. He uttered low guttural words in a language they did not know, "*Tu nak sna un umbrathir!*" Then the solders charged.
+The lead soldier raised his curved blade and pointed it at the party. He uttered low guttural words in a language they did not know, "*Tu nak sna un umbrathir!*" Then the soldiers charged.
 
 Combat erupted. [[@Ichoren]] brutalised one of the soldiers with his fists, immediately taking him out. The rest of the party capatalised on their own quick reactions and distance the soldiers had to cover to round on the remaining two. [[@Kirou]] thrust his black blade through the torso of one from behind. The rest of the party made short work of the other.
 
@@ -48,4 +48,4 @@ The party examined the soldiers, revealing them to be human or elf-like in appea
 
 In the aftermath, the guests that remained wandered around. [[Lord Ronald Squinketon]] was concerned [[Commander Eladar Squinketon]] had not returned. 
 
-Then party saw [[Lord Timbrel Toodlepip]] sat slumped against a tree, holding a gaping stomach wound...
+Then the party saw [[Lord Timbrel Toodlepip]] sat slumped against a tree, holding a gaping stomach wound...
