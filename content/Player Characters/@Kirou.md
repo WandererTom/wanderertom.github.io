@@ -3,7 +3,7 @@ title: "@Kirou"
 draft: false
 tags:
 ---
-Name: Kirou Backfang  
+Name: Kirou Blackfang  
 Kin: Wolfkin  
 Age: Young (~12)  
 Profession: Thief  
