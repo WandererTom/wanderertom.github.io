@@ -3,6 +3,10 @@ title: "@Jack"
 draft: false
 tags:
 ---
-@Rich's character.
+Name: Jack Wolfskin
+Kin: Wolfkin
+Age: Adult
+Profession: Merchant
+Player: @Rich
 
-Jack Wolfskin.
+![[Image_JackWolfskin.png|200]]

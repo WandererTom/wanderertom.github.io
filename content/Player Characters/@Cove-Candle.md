@@ -3,4 +3,8 @@ title: "@Cove-Candle"
 draft: false
 tags:
 ---
-@Penny's character.
+Name: Cove-Candle
+Kin: Mallard
+Age: Adult
+Profession: Mariner
+Player: @Penny

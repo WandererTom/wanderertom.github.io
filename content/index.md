@@ -1,9 +1,17 @@
 ---
 title: Welcome to Alethyria!
 ---
-This is a collection of ideas for our upcoming Dragonbane campaign. I hope to evolve this site into a Wiki as the story progresses and the world grows.
+A wiki for our Dragonbane campaign, set in the land of Alethyria.
 
-The content in this site is only a starting point. Share your ideas!
+For some background and lore check out the [[World Overview]] and then the [[History of Alethyria]].
 
-Start by checking out the [[World Overview]] and then the [[History of Alethyria]].
+You can read about each session in the [[Campaign Log]].
 
+The player characters in this campaign are:
+
+[[@Jack]]
+[[@Kirou]]
+[[@Zharek]]
+[[@Splatts]]
+[[@Ichoren]]
+[[@Cove-Candle]]

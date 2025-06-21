@@ -3,4 +3,10 @@ title: "@Splatts"
 draft: false
 tags:
 ---
-@fallstopieces's character.
+Name: Splatts
+Kin: Mallard
+Age: Young
+Profession: Merchant
+Player: @fallstopieces
+
+![[Image_Splatts.jpg|200]]

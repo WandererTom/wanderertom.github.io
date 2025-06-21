@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 ## Session 1 (20/06/25)
-*Triad 749, Luminar 100 (Daytime), Valesview*
+*Triad 749, Luminar 100 (Daytime), Valesview*  
 [[@Jack]], [[@Ichoren]], [[@Splatts]], [[@Kirou]], [[@Zharek]], [[@Cove-Candle]]
 
 The story began on Triad 749 at the *Height of Luminar*, on a glorious warm day in Alethyria. In the quaint little village of [[Valesview]], guests arrived from near and far to attend the much anticipated union of the honorable [[Commander Eladar Squinketon]] and his betrothed, [[Lady Chastity Cheesecloth]]. The ceremony was to take place at [[Squinketon Manor]], home of the esteemed [[Lord Ronald Squinketon]], in the large gardens set amongst a backdrop of the stunning [[Vale of Songs]]. On this joyous day, sunlight shimmered across valley and the pristine white and golden towers of [[Vadoria City]] sparkled in the hazy distance. Tents were erected and servants hurried around tending to guests.
@@ -21,7 +21,7 @@ The party dutifully greeted their hosts and mingled in the grounds, and several 
 As the ceremony was due to start, the party were ushered to their seats in the garden, and much to [[@Splatts]] and [[@Jack]]'s displeasure found themselves all sat together.
 
 Before long [[Lord Timbrel Toodlepip]] plonked himself down in the row in front, and turned to speak to the party. Over the course of several glasses of champagne, and intersected by another very long story from [[@Cove-Candle]], he shared some gossip with the group (not that he's one to gossip, of course).
-- The talk of the town was the recent events in [[Isle of Arcantia]]. Apparently a mysterious artefact was stolen from the [[Tower of Arcantia]], and the thief hid it in a nearby marketplace. The authorities tried but failed to find it. He didn't know what the artefact was as it was all very "hush hush". Rumour has it a child killed two adults in the market soon after.
+- The talk of the town was the recent events in the [[Isle of Arcantia]]. Apparently a mysterious artefact was stolen from the [[Tower of Arcantia]], and the thief hid it in a nearby marketplace. The authorities tried but failed to find it. He didn't know what the artefact was as it was all very "hush hush". Rumour has it a child killed two adults in the market soon after.
 - [[Lord Ronald Squinketon]] had a second-born son named [[Tobias Squinketon]]. He died several months earlier, and the official cause of death was the Sleeping Fever. However, Lord Toodlepip heard rumblings that Tobias crossed [[The Cabal of the Sundered Stone]] and met his end at their hands. He laughed this off as a tale to scare children.
 
 The conversation drew to a close as the ceremony started. The beautiful [[Lady Chastity Cheesecloth]] walked gracefully the aisle as [[Commander Eladar Squinketon]] grinned. After a brief interruption from a messenger who brought blessings from [[Queen Alira Aurelwyn]], the union was made and Eladar leaned in for the kiss...

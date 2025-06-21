@@ -3,6 +3,10 @@ title: "@Kirou"
 draft: false
 tags:
 ---
-@Finch's character.
+Name: Kirou Backfang
+Kin: Wolfkin
+Age: Young (~12)
+Profession: Thief
+Player: @Finch
 
-Kirou Blackfang, wolfkin child. 
+![[Image_Kirou.jpeg|200]]

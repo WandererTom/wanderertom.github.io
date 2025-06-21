@@ -3,6 +3,10 @@ title: "@Zharek"
 draft: false
 tags:
 ---
-@RareMintFish's character.
+Name: Zhareck Stormseer
+Kin: Karkion
+Age: Adult
+Profession: Mage (Mentalist)
+Player: @RareMintFish
 
-Zhareck Stormseer.
+![[Image_Zharek.jpg|200]]
