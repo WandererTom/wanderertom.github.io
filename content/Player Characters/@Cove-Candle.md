@@ -1,8 +1,6 @@
 ---
-title: "@Cove"
+title: "@Cove-Candle"
 draft: false
 tags:
 ---
 @Penny's character.
-
-Cove-Candle.

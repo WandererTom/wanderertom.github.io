@@ -1,0 +1,1 @@
+A grand and imposing tower located on the island of [[Isle of Arcantia]], resident to an order of mages.

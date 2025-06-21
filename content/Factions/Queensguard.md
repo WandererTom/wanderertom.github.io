@@ -1,0 +1,1 @@
+An elite branch of the military in the [[Kingdom of Vadoria]], designated to guard the royal household, estate, and key locations such as [[Vadoria City]].

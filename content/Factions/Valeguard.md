@@ -1,0 +1,1 @@
+The military in the [[Kingdom of Vadoria]], designated to protect the kingdom from hostile threats. Over the years have essentially evolved into law enforcement, primarily used to keep the peace in the kingdom and uphold the law.

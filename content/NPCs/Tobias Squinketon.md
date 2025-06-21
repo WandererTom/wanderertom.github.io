@@ -1,0 +1,1 @@
+Son of [[Lord Ronald Squinketon]], younger brother of [[Commander Eladar Squinketon]]. Died several months ago. The official cause of death was the **Sleeping Fever**. Was in the [[Queensguard]].

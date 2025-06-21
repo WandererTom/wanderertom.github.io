@@ -1,0 +1,1 @@
+An unground organisation fabled to hold secretive power in the [[Kingdom of Vadoria]]. Most believe the Cabal don't exist, and this is just a tale to scare children.
