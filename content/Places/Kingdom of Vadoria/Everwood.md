@@ -1,0 +1,1 @@
+A huge expanse of forest covering the southern half of the [[Kingdom of Vadoria]].

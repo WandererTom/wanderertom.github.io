@@ -58,7 +58,7 @@ Then the party saw [[Lord Timbrel Toodlepip]] sat slumped against a tree, holdin
 
 The party rush over to [[Lord Timbrel Toodlepip]] who is clutching a stomach wound. Unsure how to help him, they seek the assistance of a shell-shocked and injured [[Queensguard]] soldier, but she cannot aid him directly. [[@Jack]] finds an old dwarf who was tending to an injured child, and he directs the party to carry Lord Toodlpip inside the manor and to gather items to clean and dress the wound.
 - [[@Jack]] liberates [[Lord Timbrel Toodlepip]] of his fancy looking pocket watch.
-- [[Lord Timbrel Toodlepip]] gives [[@Ichoren]] his signet ring and tells him to find **The Bladedancers** in the Everwood and call on them for aid. The ring will convince them of his authority.
+- [[Lord Timbrel Toodlepip]] gives [[@Ichoren]] his signet ring and tells him to find the [[Bladedancers]] in the [[Everwood]] and call on them for aid. The ring will convince them of his authority.
 - [[Lady Chastity Cheesecloth]] tells them her love is missing.
 
 As the party tend to the injured lord inside the manor, [[@Kirou]] looks around for valuables. As he goes upstairs he comes face-to-face with [[Lord Ronald Squinketon]] who directs him to a storeroom. [[@Kirou]] suggests [[Lord Ronald Squinketon]] go to find some liquor to aid Lord Toodlepip, and when he does so [[@Kirou]] sneaks into a master bedroom and pockets a handful of expensive looking jewellery.
@@ -74,7 +74,7 @@ On the wall of the study is a large painting of [[Queen Alira Aurelwyn]]. [[@Jac
 [[@Zharek]] also see a painting of a great floating city of [[Caldurax]]. He examines this closely to see it was signed with the name **Kiri Nug**.
 
 [[Lord Ronald Squinketon]] realises some specific items were stolen from him, although the thieves left many other valuable items alone.
-- An amulet known as the **Tear of Gamaliel**. [[@Splatts]] persuades him to divulge that this was given to him by [[Queen Alira Aurelwyn]] following the death of his son. His son had been investigating an underground organisation who were seeking to upset the balance of power in the kingdom, and he believes his son met his end at their hands. The queen gifted him the amulet - a rare treasure - as its magical properties helped relieve him of his grief. The amulet also has a twin, the **Tear of Anaiel**, but he does not know who owns this or where it is. 
+- An amulet known as the [[Tear of Gamaliel]]. [[@Splatts]] persuades him to divulge that this was given to him by [[Queen Alira Aurelwyn]] following the death of his son. His son had been investigating an underground organisation who were seeking to upset the balance of power in the kingdom, and he believes his son met his end at their hands. The queen gifted him the amulet - a rare treasure - as its magical properties helped relieve him of his grief. The amulet also has a twin, the [[Tear of Anaiel]], but he does not know who owns this or where it is. 
 - An old sword once wielded by **Isa the Fierce**, a renowned female elf Knight who died fighting a manticore that had ventured down from the mountains to the border villages. He doesn't know why the invaders would be interested in this sword, but it did prompt him to mention the shard of another blade...
 - He had recently acquired a strange shard of a larger blade, black in colour with a red sheen. He realised it was something special, something unnatural. He got this from a trader but could not identify its original source. He sent this to the great mage [[Uthimial]] in [[Alzar's Tower]] to study.
 

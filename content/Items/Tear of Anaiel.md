@@ -1,0 +1,1 @@
+A tear shaped amulet said to be identical in design to the [[Tear of Gamaliel]] with the exception of the gemstone within.
