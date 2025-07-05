@@ -1,0 +1,1 @@
+A large mage's tower located on the eastern side of the [[Kingdom of Vadoria]].

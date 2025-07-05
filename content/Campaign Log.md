@@ -49,3 +49,39 @@ The party examined the soldiers, revealing them to be human or elf-like in appea
 In the aftermath, the guests that remained wandered around. [[Lord Ronald Squinketon]] was concerned [[Commander Eladar Squinketon]] had not returned. 
 
 Then the party saw [[Lord Timbrel Toodlepip]] sat slumped against a tree, holding a gaping stomach wound...
+
+## Session 2 (04/07/2025)
+*Triad 749, Luminar 100 (Daytime), Valesview*  
+[[@Jack]], [[@Ichoren]], [[@Splatts]], [[@Kirou]], [[@Zharek]]
+
+[[@Zharek]] lands back down on the ground and tells the party through his Farsight he saw the unconscious [[Commander Eladar Squinketon]] being dragged towards the crashed ship by two of the invading soldiers.
+
+The party rush over to [[Lord Timbrel Toodlepip]] who is clutching a stomach wound. Unsure how to help him, they seek the assistance of a shell-shocked and injured [[Queensguard]] soldier, but she cannot aid him directly. [[@Jack]] finds and old dwarf who was tending to an injured child, and he directs the party to carry Lord Toodlpip inside the manor and to gather items to clean and dress the wound.
+- [[@Jack]] liberates [[Lord Timbrel Toodlepip]] of his fancy looking pocket watch.
+- [[Lord Timbrel Toodlepip]] gives [[@Ichoren]] his signet ring and tells him to find **The Bladedancers** in the Everwood and call on them for aid. The ring will convince them of his authority.
+- [[Lady Chastity Cheesecloth]] tells them her love is missing.
+
+As the party tend to the injured lord inside the manor, [[@Kirou]] looks around for valuables. As he goes upstairs he comes face-to-face with [[Lord Ronald Squinketon]] who directs him to a storeroom. [[@Kirou]] suggests [[Lord Ronald Squinketon]] go to find some liquor to aid Lord Toodlepip, and when he does so [[@Kirou]] sneaks into a master bedroom and pockets a handful of expensive looking jewellery.
+
+[[@Zharek]] uses his steady paws to dress and stitch Lord Toodlepip's wound. Then they hear shouts of help from within the manor, calls from [[Lord Ronald Squinketon]].
+
+As the party run to his aid, they find the lord stood outside the entrance to his large study. The room has been broken into and ransacked, grand display cabinets emptied.
+
+[[@Kirou]] hears a noise from inside a closed cupboard. [[@Ichoren]] thrusts it open to find a young boy, **Tippin**, cowering inside. [[@Ichoren]] adjusts his posture in a non-threatening way, calming the boy. Tippin tells them he snuck into the office and saw the red-skinned soldiers ransacking it. [[@Ichoren]] helps Tippin sneak back out so he doesn't get into trouble.
+
+On the wall of the study is a large painting of [[Queen Alira Aurelwyn]]. [[@Jack]] takes an interest in her expensive looking necklace.
+
+[[@Zharek]] also see a painting of a great floating city of [[Caldurax]]. He examines this closely to see it was signed with the name **Kiri Nug**.
+
+[[Lord Ronald Squinketon]] realises some specific items were stolen from him, although the thieves left many other valuable items alone.
+- An amulet known as the **Tear of Gamaliel**. [[@Splatts]] persuades him to divulge that this was given to him by [[Queen Alira Aurelwyn]] following the death of his son. His son had been investigating an underground organisation who were seeking to upset the balance of power in the kingdom, and he believes his son met his end at their hands. The queen gifted him the amulet - a rare treasure - as its magical properties helped relieve him of his grief. The amulet also has a twin, the **Tear of Anaiel**, but he does not know who owns this or where it is. 
+- An old sword once wielded by **Isa the Fierce**, a renowned female elf Knight who died fighting a manticore that had ventured down from the mountains to the border villages. He doesn't know why the invaders would be interested in this sword, but it did prompt him to mention the shard of another blade...
+- He had recently acquired a strange shard of a larger blade, black in colour with a red sheen. He realised it was something special, something unnatural. He got this from a trader but could not identify its original source. He sent this to the great mage [[Uthimial]] in [[Alzar's Tower]] to study.
+
+The party inform [[Lord Ronald Squinketon]] they are going to attempt to rescue [[Commander Eladar Squinketon]]. He provides them with some maps of the area and the land, and 10 gold each to aid them on their way. From the windows the party notice smoke rising from the village. They decide to head out towards the crashed ship.
+
+Watching from the trees they see the ship is guarded by at least three soldier on the upper deck, but [[@Zharek]] knows there is at least one more having seen through his Farsight a bald headed soldier with a scarred face. They decide against stealth or distraction, and opt to charge down the soldiers and attempt to take them by surprise.
+
+[[@Zharek]] drops on one from the skies, slamming into him with his power fist. The other party assault the soldier guarding a ladder, and before long both are felled. The third tries to flee through a door but a well thrown axe and some quick movement to close him down stop this. [[@Jack]] is sliced by the soldier's blade. [[@Ichoren]] swings wildly with his fists, becoming angry and smashing one fist through the door. [[@Kirou]] calmly finishes the soldier off with a backstab.
+
+The party gather themselves and brace for what awaits them in the decks below...
