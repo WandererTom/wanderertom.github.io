@@ -50,7 +50,7 @@ In the aftermath, the guests that remained wandered around. [[Lord Ronald Squink
 
 Then the party saw [[Lord Timbrel Toodlepip]] sat slumped against a tree, holding a gaping stomach wound...
 
-## Session 2 (04/07/2025)
+## Session 2 (04/07/25)
 *Triad 749, Luminar 100 (Daytime), Valesview*  
 [[@Jack]], [[@Ichoren]], [[@Splatts]], [[@Kirou]], [[@Zharek]]
 
