@@ -56,7 +56,7 @@ Then the party saw [[Lord Timbrel Toodlepip]] sat slumped against a tree, holdin
 
 [[@Zharek]] lands back down on the ground and tells the party through his Farsight he saw the unconscious [[Commander Eladar Squinketon]] being dragged towards the crashed ship by two of the invading soldiers.
 
-The party rush over to [[Lord Timbrel Toodlepip]] who is clutching a stomach wound. Unsure how to help him, they seek the assistance of a shell-shocked and injured [[Queensguard]] soldier, but she cannot aid him directly. [[@Jack]] finds and old dwarf who was tending to an injured child, and he directs the party to carry Lord Toodlpip inside the manor and to gather items to clean and dress the wound.
+The party rush over to [[Lord Timbrel Toodlepip]] who is clutching a stomach wound. Unsure how to help him, they seek the assistance of a shell-shocked and injured [[Queensguard]] soldier, but she cannot aid him directly. [[@Jack]] finds an old dwarf who was tending to an injured child, and he directs the party to carry Lord Toodlpip inside the manor and to gather items to clean and dress the wound.
 - [[@Jack]] liberates [[Lord Timbrel Toodlepip]] of his fancy looking pocket watch.
 - [[Lord Timbrel Toodlepip]] gives [[@Ichoren]] his signet ring and tells him to find **The Bladedancers** in the Everwood and call on them for aid. The ring will convince them of his authority.
 - [[Lady Chastity Cheesecloth]] tells them her love is missing.
