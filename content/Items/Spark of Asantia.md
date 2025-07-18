@@ -1,0 +1,1 @@
+A mythical amber coloured egg shaped gemstone that glows with the very spirit of [[content/Deities/Asantia|Asantia]] herself.

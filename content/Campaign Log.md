@@ -85,3 +85,57 @@ Watching from the trees they see the ship is guarded by at least three soldier o
 [[@Zharek]] drops on one from the skies, slamming into him with his power fist. The other party assault the soldier guarding a ladder, and before long both are felled. The third tries to flee through a door but a well thrown axe and some quick movement to close him down stop this. [[@Jack]] is sliced by the soldier's blade. [[@Ichoren]] swings wildly with his fists, becoming angry and smashing one fist through the door. [[@Kirou]] calmly finishes the soldier off with a backstab.
 
 The party gather themselves and brace for what awaits them in the decks below...
+
+## Session 3 (18/07/25)
+*Triad 749, Luminar 100 (Daytime), Valesview*  
+[[@Jack]], [[@Ichoren]], [[@Splatts]],[[@Zharek]]
+
+Having ambushed and cleared the soldiers from the top deck of the ship, the party waste no time in heading below. [[@Ichoren]] charges down in a rage, and the others keep up.
+
+In the lower deck the party find a large room, lined with shelves of provisions, crates of weapons, and several finely made rucksacks. [[@Splatts]] and [[@Zharek]] pick up rucksacks and [[@Splatts]] takes the opportunity to liberate a loaf of bread from the shelves also.
+
+Opposite is a brig, a barred jail cell. This is unoccupied.
+
+As [[@Ichoren]] moves around in his untampered rage, he hears shouting from a behind a door leading towards the bow of the ship. He boots open the door without hesitation.
+
+The door swings open with a thundering crash, revealing [[Commander Eladar Squinketon]] facing him, sat in a chair, his hands manacled behind his back and wearing only his underclothes. His face is beaten, bloody. Standing before him is a soldier, bald headed with a huge scar running down his face, one hand clenched into a bloodied fist, the other holding a sharp blade. Two large guard dogs immediately wake from their lazy slumber and bare their teeth at the party.
+
+The soldier wastes no time and moves to stand behind Eladar and holds his blade to Eladar's neck, warning them to come no closer. The dogs adopt aggressive guarding positions at his command. Speaking in common, the solider tells them the [[Um’brathir]] do not negotiate, and these lands now belong to them. He makes it clear he is prepared to die, and will take Eladar with him.
+
+As the party inch further into the room and attempted to calm the situation, they observe several items of note. On a large table lies a broken sword and several expensive looking amulets. They also see a large chest on the other side of the room.
+
+While [[@Splatts]] negotiates, [[@Jack]] takes the initiative and hurls a dagger at the soldier. The solider flinches and tries to dodge it, but the dagger slams into his chest, the damage only lessened by his chainmail armour. The chaos of combat erupts.
+
+[[@Ichoren]] is attacked by one of the dogs but angrily throws it out of the way, and as it lands with a whimper [[@Splatts]] impales it with a perfectly thrown blade. [[@Jack]] launches himself over the long table, picks up the broken sword, and in one fell swoop departs the second dog's head from its body.
+
+[[@Ichoren]] and [[@Zharek]] round on the guard soldier, who tries to hack at [[Commander Eladar Squinketon]]. As they reign blows upon him, he manages to strike once, causing a deep wound to Eladar's neck. Arterial blood covers them, but [[@Ichoren]] choke slams the solider into the floor, knocking the wind from him, and [[@Zharek]] brutally finishes him with a magically enhanced power fist that turns him to pulp.
+
+In his rage [[@Ichoren]] throws the remnants of the soldier's body out of the nearby window.
+
+In the aftermath, [[@Jack]] does what he does best and pockets five expensive looking amulets from the table. He examines a scroll laid beside them, revealing sketches of several items ([[InvaderScroll.webp]]). These are labelled "The Emberglass", "Solbane", and "The Twelve".
+
+[[@Zharek]] aids [[Commander Eladar Squinketon]] to prevent him bleeding out. The party realise the key to the manacles likely went out of the window with the soldier, but thankfully [[@Splatts]] manages to find a pin and pick the lock to release Eladar.
+
+[[@Jack]] finds a partially burnt note and reads it to the party, recognising it references the scroll he found shortly before ([[BurntNote.webp]]).
+
+After a short stretch rest the party turn their attention to the chest. They find this is inscribed with runes, and [[@Zharek]] recognises the language as similar to some ancient texts he has seen. He manages to translate the runes; "Those who share blood may unlock secrets".
+
+Realising blood holds the secret to the lock, they smear the chest with Eladar's blood and that of the beasts they felled. [[@Jack]] even "milks" the head of the dog into a small bowl, and encourages them to "share" the blood by taking a drink. Much to his disappointment, this effort fails. As [[@Splatts]] and [[@Zharek]] continue to wretch, [[@Splatts]] wipes the blood from the chest to take another clear look at it, but catches his hand on a discreet pin just beneath the lock. They realise whose blood they might need.
+
+[[@Ichoren]] pokes his head out of the smashed window to see just how far down the soldier's body might be, but realises he's stepped through a pool of his blood. He promptly mops this up and wipes the soldier's blood around the chest's lock. The chest clicks open, and [[@Ichoren]] finds himself bathed in a soft glowing white light from within.
+
+Inside the chest he finds a beautiful tear shaped amulet. Its clear gemstone glows a diffused radiant light, and inside is a perpetual vortex swirls. Afraid, [[@Ichoren]] takes it, but feels his fear evaporate as he holds the amulet. He passes it between [[@Splatts]] and [[@Jack]] who both also feel their spirits lift when they hold it. [[@Jack]] spreads the scroll out over the table and places the amulet over it, realising they have found one of the items depicted under "The Twelve". He also recognises another, the mythical [[Spark of Asantia]]. [[@Splatts]] returns the amulet to his pocket for safekeeping.
+
+[[@Jack]] compares the broken sword he found on the table to the blade depicted on the scroll - Solbane - and realises they are not the same.
+
+The party leave the ship, aiding [[Commander Eladar Squinketon]] to walk, and head back towards [[Squinketon Manor]].
+
+As they approach the path leading up from the [[Vale of Songs]], they hear the whinny of a horse. Before long they see a stallion charging up the path towards them, ridden furiously by a member of the [[Queensguard]]. The soldier carries a bagged item under one arm. As the horse rears up before them, the soldier slumps from it, dead. Three arrows protrude from his back. [[@Zharek]] attempts to control the horse and [[@Splatts]] encourages [[Commander Eladar Squinketon]] to help, who quickly calms it.
+
+[[@Splatts]] looks in the bag, his face greeted with a glowing red light. Inside he finds a heavy glass orb, pulsing with a magic from within. He recognises this as the orb depicted on the scroll - The Emberglass. He quietly discusses this with the party.
+
+[[@Jack]] picks up the fallen [[Queensguard]] and places his body over the horse, and in doing so sees a note float to the ground having fallen from the soldier's cape. He discreetly reads this while [[Commander Eladar Squinketon]] tends to the horse.
+
+![[The Queen's Note]]
+
+Determining to keep this secret, for now, the party take the orb and head back to [[Squinketon Manor]], intending to return [[Commander Eladar Squinketon]] and get some well earned rest...
