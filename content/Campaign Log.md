@@ -177,5 +177,5 @@ Some of the party spoke again to [[Lord Ronald Squinketon]], and he offered use 
 
 The party left the manor and stepped out onto the cobbled streets of [[Valesview]], where they came across a solemn priest who was prostrated before the ruins of his smoldering church. With little patience for his grumblings, the party encouraged him to be grateful for what he had and that nobody was hurt. He offered them his holy symbol, that of a lyre, but they declined, and left him to his woes. 
 
-The party made their way towards **Finches Fings** where they intended to stock up on supplies before travelling to [[Morenthia]]...
+The party made their way towards **Finch's Fings** where they intended to stock up on supplies before travelling to [[Morenthia]]...
 
