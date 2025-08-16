@@ -167,7 +167,7 @@ After this discussion, the weary party went upstairs to rest. [[@Ichoren]] took 
 
 After a shift rest, the part woke in the night. They saw flames in the distance over the western side of the kingdom, the signs of settlements ablaze. [[@Zharek]] used his Farsight to transport himself to one of these, where he saw the chaos of the [[Um’brathir]] invasion. The villages were slaughtered as the invaders rampaged through in brutal domination. He saw no signs of pillaging. 
 
-[[@Zharek]] left his bedchamber and found the female [[Queensguard]] solider they'd met the day before staring blankly at a wall in one of the drawing rooms. He carefully got her attention and told her what he'd seen. She thanked him and said she was heading to [[Morenthia]] the next day to find what she could of any remaining [[Queensguard]], and she would relay this to the commanding officer. She told him sleep eluded her, and the memories of watching the city fall were foremost in her mind. 
+[[@Zharek]] left his bedchamber and found the female [[Queensguard]] soldier they'd met the day before staring blankly at a wall in one of the drawing rooms. He carefully got her attention and told her what he'd seen. She thanked him and said she was heading to [[Morenthia]] the next day to find what she could of any remaining [[Queensguard]], and she would relay this to the commanding officer. She told him sleep eluded her, and the memories of watching the city fall were foremost in her mind. 
 
 Seeking more rest, the party rose in the morning and were greeted with the inviting smell of breakfast. During their meal, [[@Splatts]] and [[@Jack]] bickered and some weaponised sausages were exchanged. 
 
