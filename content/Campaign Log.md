@@ -54,92 +54,128 @@ Then the party saw [[Lord Timbrel Toodlepip]] sat slumped against a tree, holdin
 *Triad 749, Luminar 100 (Daytime), Valesview*  
 [[@Jack]], [[@Ichoren]], [[@Splatts]], [[@Kirou]], [[@Zharek]]
 
-[[@Zharek]] lands back down on the ground and tells the party through his Farsight he saw the unconscious [[Commander Eladar Squinketon]] being dragged towards the crashed ship by two of the invading soldiers.
+[[@Zharek]] landed back down on the ground and told the party that through his Farsight he saw the unconscious [[Commander Eladar Squinketon]] being dragged towards the crashed ship by two of the invading soldiers.
 
-The party rush over to [[Lord Timbrel Toodlepip]] who is clutching a stomach wound. Unsure how to help him, they seek the assistance of a shell-shocked and injured [[Queensguard]] soldier, but she cannot aid him directly. [[@Jack]] finds an old dwarf who was tending to an injured child, and he directs the party to carry Lord Toodlpip inside the manor and to gather items to clean and dress the wound.
-- [[@Jack]] liberates [[Lord Timbrel Toodlepip]] of his fancy looking pocket watch.
-- [[Lord Timbrel Toodlepip]] gives [[@Ichoren]] his signet ring and tells him to find the [[Bladedancers]] in the [[Everwood]] and call on them for aid. The ring will convince them of his authority.
-- [[Lady Chastity Cheesecloth]] tells them her love is missing.
+The party rushed over to [[Lord Timbrel Toodlepip]] who was clutching a stomach wound. Unsure how to help him, they sought the assistance of a shell-shocked and injured [[Queensguard]] soldier, but she could not aid him directly. [[@Jack]] found an old dwarf who was tending to an injured child, and he directed the party to carry Lord Toodlpip inside the manor and to gather items to clean and dress the wound.
+- [[@Jack]] liberated [[Lord Timbrel Toodlepip]] of his fancy looking pocket watch.
+- [[Lord Timbrel Toodlepip]] gave [[@Ichoren]] his signet ring and told him to find the [[Bladedancers]] in the [[Everwood]] and call on them for aid. The ring would convince them of his authority.
+- [[Lady Chastity Cheesecloth]] told them her love was missing.
 
-As the party tend to the injured lord inside the manor, [[@Kirou]] looks around for valuables. As he goes upstairs he comes face-to-face with [[Lord Ronald Squinketon]] who directs him to a storeroom. [[@Kirou]] suggests [[Lord Ronald Squinketon]] go to find some liquor to aid Lord Toodlepip, and when he does so [[@Kirou]] sneaks into a master bedroom and pockets a handful of expensive looking jewellery.
+As the party tended to the injured lord inside the manor, [[@Kirou]] looked around for valuables. Upstairs he came face-to-face with [[Lord Ronald Squinketon]] who directed him to a storeroom. [[@Kirou]] suggested [[Lord Ronald Squinketon]] find some liquor to aid Lord Toodlepip, and when he did so [[@Kirou]] snuck into a master bedroom and pocketed a handful of expensive looking jewellery.
 
-[[@Zharek]] uses his steady paws to dress and stitch Lord Toodlepip's wound. Then they hear shouts of help from within the manor, calls from [[Lord Ronald Squinketon]].
+[[@Zharek]] used his steady paws to dress and stitch Lord Toodlepip's wound. Then they heard shouts of help from within the manor, calls from [[Lord Ronald Squinketon]].
 
-As the party run to his aid, they find the lord stood outside the entrance to his large study. The room has been broken into and ransacked, grand display cabinets emptied.
+As the party ran to his aid, they found the lord stood outside the entrance to his large study. The room had been broken into and ransacked, several grand display cabinets emptied.
 
-[[@Kirou]] hears a noise from inside a closed cupboard. [[@Ichoren]] thrusts it open to find a young boy, **Tippin**, cowering inside. [[@Ichoren]] adjusts his posture in a non-threatening way, calming the boy. Tippin tells them he snuck into the office and saw the red-skinned soldiers ransacking it. [[@Ichoren]] helps Tippin sneak back out so he doesn't get into trouble.
+[[@Kirou]] heard a noise from inside a closed cupboard. [[@Ichoren]] thrust it open and found a young boy, **Tippin**, cowering inside. [[@Ichoren]] adjusted his posture in a non-threatening way and calmed the boy. Tippin told them he snuck into the office and saw the red-skinned soldiers ransacking it. [[@Ichoren]] helped Tippin sneak back out so he didn't get into trouble.
 
-On the wall of the study is a large painting of [[Queen Alira Aurelwyn]]. [[@Jack]] takes an interest in her expensive looking necklace.
+On the wall of the study was a large painting of [[Queen Alira Aurelwyn]]. [[@Jack]] took an interest in her expensive looking necklace.
 
-[[@Zharek]] also see a painting of a great floating city of [[Caldurax]]. He examines this closely to see it was signed with the name **Kiri Nug**.
+[[@Zharek]] also saw a painting of a great floating city of [[Caldurax]]. He examined this closely to find it was signed with the name **Kiri Nug**.
 
-[[Lord Ronald Squinketon]] realises some specific items were stolen from him, although the thieves left many other valuable items alone.
-- An amulet known as the [[Tear of Gamaliel]]. [[@Splatts]] persuades him to divulge that this was given to him by [[Queen Alira Aurelwyn]] following the death of his son [[Tobias Squinketon]]. His son had been investigating an underground organisation who were seeking to upset the balance of power in the kingdom, and he believes his son met his end at their hands. The queen gifted him the amulet - a rare treasure - as its magical properties helped relieve him of his grief. The amulet also has a twin, the [[Tear of Anaiel]], but he does not know who owns this or where it is. 
-- An old sword once wielded by **Isa the Fierce**, a renowned female elf Knight who died fighting a manticore that had ventured down from the mountains to the border villages. He doesn't know why the invaders would be interested in this sword, but it did prompt him to mention the shard of another blade...
+[[Lord Ronald Squinketon]] realised some specific items were stolen from him, although the thieves left many other valuable items alone.
+- An amulet known as the [[Tear of Gamaliel]]. [[@Splatts]] persuaded him to divulge that this was given to him by [[Queen Alira Aurelwyn]] following the death of his son [[Tobias Squinketon]]. His son had been investigating an underground organisation who were seeking to upset the balance of power in the kingdom, and he believed his son met his end at their hands. The queen gifted him the amulet - a rare treasure - as its magical properties helped relieve him of his grief. The amulet also has a twin, the [[Tear of Anaiel]], but he did not know who owns this or where it is. 
+- An old sword once wielded by **Isa the Fierce**, a renowned female elf Knight who died fighting a manticore that had ventured down from the mountains to the border villages. He didn't know why the invaders would be interested in this sword, but it did prompt him to mention the shard of another blade...
 - He had recently acquired a strange shard of a larger blade, black in colour with a red sheen. He realised it was something special, something unnatural. He got this from a trader but could not identify its original source. He sent this to the great mage [[Uthimial]] in [[Alzar's Tower]] to study.
 
-The party inform [[Lord Ronald Squinketon]] they are going to attempt to rescue [[Commander Eladar Squinketon]]. He provides them with some maps of the area and the land, and 10 gold each to aid them on their way. From the windows the party notice smoke rising from the village. They decide to head out towards the crashed ship.
+The party informed [[Lord Ronald Squinketon]] they were going to attempt to rescue [[Commander Eladar Squinketon]]. He gave them with some maps of the area and the land, and 10 gold each to aid them on their way. From the windows the party noticed smoke rising from the village. They decided to head out towards the crashed ship.
 
-Watching from the trees they see the ship is guarded by at least three soldier on the upper deck, but [[@Zharek]] knows there is at least one more having seen through his Farsight a bald headed soldier with a scarred face. They decide against stealth or distraction, and opt to charge down the soldiers and attempt to take them by surprise.
+Watching from the trees they saw the ship was guarded by at least three soldier on the upper deck, but [[@Zharek]] knew of at least one more having seen through his Farsight a bald headed soldier with a scarred face. They decided against using stealth or distraction, and opted instead to charge down the soldiers and attempted to take them by surprise.
 
-[[@Zharek]] drops on one from the skies, slamming into him with his power fist. The other party assault the soldier guarding a ladder, and before long both are felled. The third tries to flee through a door but a well thrown axe and some quick movement to close him down stop this. [[@Jack]] is sliced by the soldier's blade. [[@Ichoren]] swings wildly with his fists, becoming angry and smashing one fist through the door. [[@Kirou]] calmly finishes the soldier off with a backstab.
+[[@Zharek]] flew up high and then dropped on one from the skies, and slammed into him with his power fist. The other party assaulted the soldier guarding a ladder, and before long both were felled. The third tried to flee through a door but a well thrown axe and some quick movement to close him down stopped this. [[@Jack]] was sliced by the soldier's blade. [[@Ichoren]] swung wildly with his fists, becoming angry and smashing one fist through the door. [[@Kirou]] calmly finished the soldier off with a backstab.
 
-The party gather themselves and brace for what awaits them in the decks below...
+The party gathered themselves and braced for what awaited them in the decks below...
 
 ## Session 3 (18/07/25)
 *Triad 749, Luminar 100 (Daytime), Valesview*  
 [[@Jack]], [[@Ichoren]], [[@Splatts]],[[@Zharek]]
 
-Having ambushed and cleared the soldiers from the top deck of the ship, the party waste no time in heading below. [[@Ichoren]] charges down in a rage, and the others keep up.
+Having ambushed and cleared the soldiers from the top deck of the ship, the party wasted no time in heading below. [[@Ichoren]] charged down in a rage, and the others ran to keep up.
 
-In the lower deck the party find a large room, lined with shelves of provisions, crates of weapons, and several finely made rucksacks. [[@Splatts]] and [[@Zharek]] pick up rucksacks and [[@Splatts]] takes the opportunity to liberate a loaf of bread from the shelves also.
+In the lower deck the party found a large room lined with shelves of provisions, crates of weapons, and several finely made rucksacks. [[@Splatts]] and [[@Zharek]] picked up rucksacks and [[@Splatts]] also took the opportunity to liberate a loaf of bread from the shelves.
 
-Opposite is a brig; a barred jail cell. This is unoccupied.
+Opposite them was a brig; a barred jail cell. This was unoccupied.
 
-As [[@Ichoren]] moves around in his untampered rage, he hears shouting from a behind a door leading towards the bow of the ship. He boots open the door without hesitation.
+As [[@Ichoren]] moved around the ship in his untampered rage, he heard shouting coming from a behind a door that led towards the bow of the ship. He booted open the door without hesitation.
 
-The door swings open with a thundering crash, revealing the captured [[Commander Eladar Squinketon]] facing the doorway at the other end of the room. He is sat in a chair, his hands manacled behind his back, and wearing only his underclothes. His face is beaten and bloodied. Standing before him is a soldier, bald headed with a huge scar running down his face, with one hand clenched into a bloodied fist and the other holding a sharp blade. Two large guard dogs immediately wake from their lazy slumber and bare their fanged teeth at the party.
+The door swung open with a thundering crash, and revealed the captured [[Commander Eladar Squinketon]] was was sat in a chair facing the doorway at the other end of the room. His hands were manacled behind his back, and he wore only his underclothes. He was visibly beaten and bloodied. Standing before him was a soldier, bald headed with a huge scar running down his face, who had one hand clenched into a bloodied fist and in the other held a sharp blade. Two large guard dogs immediately woke from their lazy slumber and bared their fanged teeth at the party.
 
-The guard soldier immediately moves to stand behind Eladar and holds the point of his blade to Eladar's neck. He warns the party to come no closer. His dogs adopt aggressive guarding positions at his command, poised and ready to attack the intruders. [[@Jack]] and [[@Splatts]] try to negotiate. The soldier laughs at their efforts. Speaking in common, he tells them the [[Um’brathir]] do not negotiate, and these lands now belong to them. He makes it abundantly clear he is prepared to die, and will take Eladar with him. He presses the blade further into Eladar's neck, drawing blood.
+Seeing the party, the guard soldier immediately moved to stand behind Eladar and held the point of his blade to Eladar's neck. He warned the party to come no closer. His dogs adopted aggressive guarding positions at his command, poised and ready to attack the intruders. [[@Jack]] and [[@Splatts]] tried to negotiate but the soldier laughed at their efforts. Speaking in common, he told them the [[Um’brathir]] did not negotiate, and these lands now belonged to them. He made it abundantly clear he was prepared to die and would take Eladar with him. He pressed the blade further into Eladar's neck, drawing blood.
 
-As the party inch further into the room and attempt to calm the situation, they observe several items of note around them. On a large table lies a broken sword and several expensive looking amulets. They also see a large closed chest on the other side of the room.
+As the party inched further into the room and attempted to calm the situation, they saw several items of note around them. On a large table led a broken sword and several expensive looking amulets. They also saw a large closed chest on the other side of the room.
 
-While [[@Splatts]] continues his efforts to negotiate, [[@Jack]] takes the initiative and hurls a dagger at the soldier. The soldier flinches and tries in vain dodge it, but the dagger slams into his chest. He is hurt, but his chainmail armour deflects some of the damage. The chaos of combat erupts.
+While [[@Splatts]] continued his efforts to negotiate, [[@Jack]] saw the initiative and hurled a dagger at the soldier. The soldier flinched and tried in vain dodge it, but the dagger slammed into his chest. He was hurt, but his chainmail armour saved him from most of the damage. The chaos of combat erupted.
 
 In response, [[@Ichoren]] is immediately attacked by one of the dogs but angrily picks it up and tosses it aside. As the dog lands with a whimper, [[@Splatts]] impales it with a perfectly thrown blade. [[@Jack]] launches himself over the long table, picks up the hilt and partial blade of the broken sword, and in one fell swoop brings it down to depart the second dog's head from its body.
 
-[[@Ichoren]] and [[@Zharek]] round on the guard soldier, who in turn tries to hack at Eladar. As blows reign upon him, the soldier manages to strike once at Eladar causing a deep wound to his neck. In the spray of arterial blood, [[@Ichoren]] choke slams the soldier into the floor, knocking the wind from him, and [[@Zharek]] brutally finishes him with a magically enhanced power fist to the face that turns him to pulp.
+[[@Ichoren]] and [[@Zharek]] rounded on the guard soldier, who in turn tried to hack at Eladar. As blows reigned upon him, the soldier managed to strike once at Eladar and caused a deep wound to his neck. Through the spray of arterial blood, [[@Ichoren]] choke slammed the soldier into the floor and knocked the wind from him. Before the solder could recover, [[@Zharek]] brutally finished him with a magically enhanced power fist to the face that turned him to pulp.
 
-In his rage [[@Ichoren]] throws the remnants of the soldier's body out of the nearby window.
+In his rage [[@Ichoren]] threw the remnants of the soldier's body out of the nearby window.
 
-In the aftermath, [[@Jack]] does what he does best and pockets five expensive looking amulets from the table. He examines a scroll laid beside them, revealing sketches of several items ([[InvaderScroll.webp|Scroll]]). These are labelled "[[The Emberglass]]", "[[Solbane]]", and "[[The Twelve]]".
+In the aftermath, [[@Jack]] did what he does best and pocketed five expensive looking amulets from the table. He examined a [[InvaderScroll.webp|scroll]] he found beside them, and this revealed sketches of several items labelled "[[The Emberglass]]", "[[Solbane]]", and "[[The Twelve]]".
 
-[[@Zharek]] aids Eladar and prevents him bleeding out. The party realise the key to the manacles likely went out of the window with the soldier, but thankfully [[@Splatts]] manages to find a pin and pick the lock to release Eladar from his chains.
+[[@Zharek]] aided Eladar and prevented him bleeding out. The party realised the key to Eladar's manacles likely went out of the window with the soldier, but thankfully [[@Splatts]] managed to find a pin and picked the lock to release Eladar from his bonds.
 
-As he examines the room, [[@Jack]] finds a partially burnt note and reads it to the party. They recognise it references the scroll he found shortly before ([[BurntNote.webp|Burnt Note]]).
+As he examined the room, [[@Jack]] found a partially [[BurntNote.webp|burnt note]] and read it to the party. They recognised it referenced the scroll he found shortly before.
 
-After a short stretch rest the party turn their attention to the chest. They find this is inscribed with runes, and [[@Zharek]] recognises the language as similar to some ancient texts he has seen during his own personal research. He manages to translate the runes; "*Those who share blood may unlock secrets*".
+After a short stretch rest the party turned their attention to the chest. They found this was inscribed with runes, and [[@Zharek]] recognised the language as similar to some ancient texts he had seen during his own personal research. He managed to translate the runes which read something like, "*Those who share blood may unlock secrets*".
 
-With the insight that blood may hold the secret to the lock, the party smear the chest with Eladar's blood and that of the beasts they felled. [[@Jack]] even "milks" the head of the dog into a small bowl, and encourages them to "share" the blood by taking a drink. Much to his disappointment, this effort fails. As [[@Splatts]] and [[@Zharek]] continue to wretch from the horrid experience, [[@Splatts]] wipes the blood from the chest to take another clear look at it. In doing so, he catches his hand on a discreet pin located just beneath the lock. They realise whose blood they might need.
+Having gained insight that blood possibly held the secret to the lock, the party smeared the chest with Eladar's blood and that of the beasts they felled. [[@Jack]] even "milked" the head of the dog into a small bowl, and encouraged them to "share" the blood by taking a drink. Much to his disappointment, this effort failed. As [[@Splatts]] and [[@Zharek]] wretched from the horrid experience, [[@Splatts]] wiped the blood from the chest and took another clear look at it. In doing so, he caught his hand on a discreet pin located just beneath the lock. They realised whose blood they might need.
 
-[[@Ichoren]] pokes his head out of the shattered window to see just how far down the soldier's body is, but realises he's stepped through a pool of the soldier's blood to get there. He promptly mops this up and wipes the blood around the chest's lock. The chest clicks open, and [[@Ichoren]] finds himself bathed in a soft glowing white light from within.
+[[@Ichoren]] poked his head out of the shattered window to see how far down the soldier's body was, only to realise he'd stepped through a pool of the soldier's blood to get there. He promptly mopped this up and wiped the blood around the chest's lock. The chest clicked open, and [[@Ichoren]] found himself bathed in a soft glowing white light from within.
 
-Inside the chest he finds a beautiful tear-shaped amulet. Its clear gemstone glows with a diffused radiant light, inside of which is a perpetual swirling vortex. Afraid, [[@Ichoren]] takes the amulet, but feels his fear evaporate as he holds it. He passes it between [[@Splatts]] and [[@Jack]] who both similarly feel their spirits lift when they hold it.
+Inside the chest he found a beautiful tear-shaped amulet. Its clear gemstone glowed with a diffused radiant light, inside of which was a perpetual swirling vortex. Afraid, [[@Ichoren]] took the amulet but felt his fear evaporate as he held it. He passed it between [[@Splatts]] and [[@Jack]] who both similarly felt their spirits lift when they held it.
 
-[[@Jack]] opens the scroll out over the table and places the amulet over it for comparison. They realise they have found one of the "[[The Twelve]]". 
+[[@Jack]] opened the scroll out over the table and placed the amulet over it for comparison. They realised they had found one of the "[[The Twelve]]". 
 
-[[@Jack]] also recognises another of the depicted items, the mythical [[Spark of Asantia]] he desires to find one day. 
+[[@Jack]] also recognised another of the depicted items, the mythical [[Spark of Asantia]] he desired to find one day. 
 
-[[@Jack]] compares the broken sword he wields to the blade depicted on the scroll - [[Solbane]] - and realises they are not the same weapon.
+[[@Jack]] compared the broken sword he wielded to the blade depicted on the scroll - [[Solbane]] - and realised they were not the same weapon.
 
-[[@Splatts]] returns the amulet to his pocket for safekeeping and the party leave the ship, aiding [[Commander Eladar Squinketon]] to do so. They set out heading back towards [[Squinketon Manor]] through the forest.
+[[@Splatts]] returned the amulet to his pocket for safekeeping and the party left the ship, and aided [[Commander Eladar Squinketon]] to leave with them. They head back towards [[Squinketon Manor]] through the forest.
 
-As they approach the path leading up from the [[Vale of Songs]], they hear the whinny of a horse. Before long they see a stallion charging up the path towards them, ridden furiously by a member of the [[Queensguard]]. The soldier carries a bagged item under one arm. As the horse rears up before them, the soldier slumps from its saddle, dead. Three arrows protrude from his back. [[@Zharek]] attempts to control the horse and [[@Splatts]] encourages [[Commander Eladar Squinketon]] to help, who quickly calms it.
+As the party approached the path leading up from the [[Vale of Songs]], they heard the whinny of a horse a short distance away. Moments later they saw a great stallion charging up the path towards them, ridden furiously by a [[Queensguard]] soldier who carried a bagged item under one arm. As the horse approached and reared up before them, the soldier slumped from its saddle, dead. Three arrows protruded from his back. [[@Zharek]] attempted to control the horse and [[@Splatts]] encouraged [[Commander Eladar Squinketon]] to help, and they managed to calm it.
 
-[[@Splatts]] looks in the bag and his face is illuminated with a glowing red light. Inside the bag is a heavy glass-like orb, pulsing with a magic from within. He recognises this is likely the orb depicted on the scroll - [[The Emberglass]]. He quietly discusses his finding with the party as Eladar tends to the horse.
+[[@Splatts]] looked into the bag and found a heavy glass-like orb pulsing with a magic from within, that lit his face with a soft red light. He immediately realised this might be the orb depicted on the scroll - [[The Emberglass]]. He quietly discussed his finding with the party as Eladar tended to the frightened horse.
 
-[[@Jack]] picks up the fallen [[Queensguard]] and places his body over the horse, and in doing so sees a note float to the ground having fallen from the soldier's clothing. He discreetly reads this, and then quietly relays it to the rest of the party.
+[[@Jack]] picked up the fallen [[Queensguard]] and placed his body over the horse so they could convey him back for proper ceremony. When he did so, he saw a note float to the ground having fallen from the soldier's clothing. He discreetly read this to himself, and then quietly relayed the information to the rest of the party.
 
 ![[The Queen's Note]]
 
-Determining to keep this a secret, for now, the party conceal [[The Orb]] and make their way back towards [[Squinketon Manor]]. As the evening begins to set in, the party resolve to return [[Commander Eladar Squinketon]] to his family and hopefully get some well earned rest...
+Determined to keep the note and [[The Orb]] a secret, for now, the party concealed the items and made their way back towards [[Squinketon Manor]]. As the evening began to set in, the party resolved to return [[Commander Eladar Squinketon]] to his family and seek the opportunity for some well earned rest...
+
+## Session 4 (16/08/25)
+*Luminar 100 (Evening), Valesview*  
+[[@Jack]], [[@Ichoren]], [[@Splatts]],[[@Zharek]], [[@Cove-Candle]]
+
+Weary, the party arrived back at the ground of [[Squinketon Manor]] where [[@Cove-Candle]] awaited them. They showed him [[The Orb]] and told him what they'd found when the rescued [[Commander Eladar Squinketon]].
+
+Before long [[Lord Ronald Squinketon]] burst out of the manor doors and rushed to meet them. He was overjoyed with the rescue of his son, and graciously offered rewards of the party's choosing and recompense for the great risk they had taken.
+
+- [[@Jack]], [[@Zharek]], and [[@Splatts]] received 40 gold pieces each (albeit [[@Jack]]'s negotiation skills initially earned him half that).
+- [[@Zharek]] asked for information, and this was given freely. He showed [[Lord Ronald Squinketon]] his amulet that bore the symbols of a swirling sun surrounded by elements. Lord Squinketon was intrigued and expressed it reminded him of his painting of the great floating city. He could offer little specific information and explained that much of this lore was lost to time with few records kept. However, he thought the great mages of the land might know more, perhaps [[Uthimial]] or a mage that was rumoured to reside in the [[Everwood]].
+- [[@Ichoren]] did not seek riches but a fancy title. Happy to oblige, [[Lord Timbrel Toodlepip]] expressed he would decree some of his own land to the ownership of [[@Ichoren]] who would hence forth be know as **Duke Ichoren Shovelhands**. The lord would arrange for the legalities to be drawn up and have these sent to him in due course. [[@Ichoren]] was overjoyed at the prospect of getting "an acre", whatever that meant.
+- [[@Cove-Candle]], after masterfully persuading the lord that he had been equally involved in the rescue, neither sought gold but a new ship to help him catch the fish but not have them on the boat. Slightly confused at the request, [[Lord Timbrel Toodlepip]] offered to have shipwrights in either [[Morenthia]] or [[content/Places/Kingdom of Vadoria/Nordvale|Nordvale]] craft a vessel to [[@Cove-Candle]]'s design. Alternatively, he offered to allow [[@Cove-Candle]] to acquire an existing ship from a selection of any available of that better suited the timeframe. 
+
+The group went inside the manor and [[@Splatts]] shared information that they found [[The Orb]] and the [[Tear of Gamaliel]]. They showed [[Lord Ronald Squinketon]] the [[InvaderScroll.webp|scroll]]. He told the party he believed one of the amulets depicted was indeed his amulet, and the one next to it was likely it's twin that he'd previously mentioned (the [[Tear of Anaiel]]). As for the others, he was not sure but did expressed a strange familiarity with the other amulet depicted and a feeling that he'd seen it many times before.
+
+Grateful for the return of the [[Tear of Gamaliel]], the lord ultimately gifted it to [[@Splatts]] and expressed he felt he would need it wherever they were going. [[@Splatts]] cautiously did not reveal the party's intended destination, and the lord did not push him any further for this information.
+
+After this discussion, the weary party went upstairs to rest. [[@Ichoren]] took a short walk beforehand to find some wood suitable for whittling. 
+
+[[@Zharek]] had a visit at his door from [[Commander Eladar Squinketon]] who asked to speak to his friend in private. During this ombre discussion, Eladar expressed his gratitude for [[@Zharek]] saving his life. However, he confessed he had wondered if it had been best if he had not made it. He was clearly battling with guilt from past events, exclaiming "they were just children". At times the memories of the bad deeds he'd done in the Queen's service were overwhelming. [[@Zharek]] comforted him and encouraged him to do right and not to let his mistakes haunt him. Eladar appreciated his advice, and they agreed to support each other with whatever might come. Eldar said he was going to heal for a short time and then make his way to honour his duty to the Queen and try to find her. He took heart that during his interrogation at the hands of the [[Um’brathir]] he was being asked about the Queen's whereabouts, so thought she must still be alive. He expressed he hoped [[@Zharek]] could find the answers to many of the questions they had about what was going on.
+
+After a shift rest, the part woke in the night. They saw flames in the distance over the western side of the kingdom, the signs of settlements ablaze. [[@Zharek]] used his Farsight to transport himself to one of these, where he saw the chaos of the [[Um’brathir]] invasion. The villages were slaughtered as the invaders rampaged through in brutal domination. He saw no signs of pillaging. 
+
+[[@Zharek]] left his bedchamber and found the female [[Queensguard]] solider they'd met the day before staring blankly at a wall in one of the drawing rooms. He carefully got her attention and told her what he'd seen. She thanked him and said she was heading to [[Morenthia]] the next day to find what she could of any remaining [[Queensguard]], and she would relay this to the commanding officer. She told him sleep eluded her, and the memories of watching the city fall were foremost in her mind. 
+
+Seeking more rest, the party rose in the morning and were greeted with the inviting smell of breakfast. During their meal, [[@Splatts]] and [[@Jack]] bickered and some weaponised sausages were exchanged. 
+
+[[@Ichoren]] went for a walk in the gardens and found [[Lord Timbrel Toodlepip]] watching the carp in a pond. They shared a brief conversation, with [[@Ichoren]] relaying his exciting news of his new acre of land, and the lord appreciating the values of solitude at times. [[@Ichoren]] gifted the lord a carving of a carp he made whilst they spoke, which he received gratefully. They accompanied one another back into the manor.
+
+Some of the party spoke again to [[Lord Ronald Squinketon]], and he offered use of his horses if they required them. The party discussed next steps, and decided [[Morenthia]] was the closest and best option. They hope to acquire [[@Cove-Candle]]'s new boat and head downriver in the general direction of [[Alzar's Tower]]. [[Lord Ronald Squinketon]] advised them to be careful, as [[Morenthia]] is close to the fallen city and may be on the front lines. They heed this advice, and dicise to get close enough so that [[@Zharek]] can scout out the place with his Farsight. 
+
+The party left the manor and stepped out onto the cobbled streets of [[Valesview]], where they came across a solemn priest who was prostrated before the ruins of his smoldering church. With little patience for his grumblings, the party encouraged him to be grateful for what he had and that nobody was hurt. He offered them his holy symbol, that of a lyre, but they declined, and left him to his woes. 
+
+The party made their way towards **Finches Fings** where they intended to stock up on supplies before travelling to [[Morenthia]]...
+

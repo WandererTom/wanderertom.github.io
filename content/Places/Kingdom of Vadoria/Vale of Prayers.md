@@ -1,0 +1,1 @@
+A wide, beautiful valley in the [[Kingdom of Vadoria]] situated just north of the [[Everwood]].

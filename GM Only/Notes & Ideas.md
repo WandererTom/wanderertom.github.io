@@ -7,18 +7,23 @@ Highlord Xar
 Chief Protector Unstone
 
 
-Cove - Skinny mallard, comically large hat parrot feathers. Overalls bow tie.
-Splatts - white duck, big orange beak. Black ill fitted suit. 
-Ichoren - large frame very pale elf, 6'5". Headwear like Jayne from Firefly. 
-Zareck - orange and black, mage robes, teal robes with gold trim, robes cover his. 
-
-
 Zarak - Karkion Mage (Liam)
+- Tiger stripes, teal robes
+
 Jack Wolfskin - Wolfkin Merchant (Rich)
+- Late 30s/early 40s, greying fur
+
 Kirou (pronounced Cairo) Blackfang - Wolfkin Thief (Finch)
+- 11/12 year old child, dark grey fur, shy
+
 Splatts - Mallard Merchant (Amanda)
+- Splatts Odds and Quacks, white feathers, orange beak
+
 Cove-candle - Mallard Sailor (Penny)
+- Skinny, comically large hat with feathers, mandarin duck
+
 Ichoren - Elf Artisan (Luke)
+- Large frame very pale elf, 6'5". Wears headwear like Jayne from Firefly. 
 
 
 
