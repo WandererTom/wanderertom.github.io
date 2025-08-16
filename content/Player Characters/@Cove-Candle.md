@@ -8,3 +8,5 @@ Kin: Mallard
 Age: Adult  
 Profession: Mariner  
 Player: @Penny  
+
+![[Cove-Candle.png|200]]
