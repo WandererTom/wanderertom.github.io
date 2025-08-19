@@ -1,1 +1,0 @@
-A colloquial name for [[The Emberglass]].

@@ -142,13 +142,13 @@ As the party approached the path leading up from the [[Vale of Songs]], they hea
 
 ![[The Queen's Note]]
 
-Determined to keep the note and [[The Orb]] a secret, for now, the party concealed the items and made their way back towards [[Squinketon Manor]]. As the evening began to set in, the party resolved to return [[Commander Eladar Squinketon]] to his family and seek the opportunity for some well earned rest...
+Determined to keep the note and [[The Emberglass|The Orb]] a secret, for now, the party concealed the items and made their way back towards [[Squinketon Manor]]. As the evening began to set in, the party resolved to return [[Commander Eladar Squinketon]] to his family and seek the opportunity for some well earned rest...
 
 ## Session 4 (16/08/25)
 *Luminar 100 (Evening), Valesview*  
 [[@Jack]], [[@Ichoren]], [[@Splatts]],[[@Zharek]], [[@Cove-Candle]]
 
-Weary from the events on the invader ship, the party arrived back at the grounds of [[Squinketon Manor]] where they found [[@Cove-Candle]] awaiting them. They showed him [[The Orb]] and what they'd found during their rescue of [[Commander Eladar Squinketon]].
+Weary from the events on the invader ship, the party arrived back at the grounds of [[Squinketon Manor]] where they found [[@Cove-Candle]] awaiting them. They showed him [[The Emberglass|The Orb]] and what they'd found during their rescue of [[Commander Eladar Squinketon]].
 
 Before long [[Lord Ronald Squinketon]] burst out of the manor's doors and rushed to meet them. He was overjoyed at the rescue of his son, and graciously offered each of the party a reward of their choosing as recompense for the great risk they had taken.
 
@@ -157,7 +157,7 @@ Before long [[Lord Ronald Squinketon]] burst out of the manor's doors and rushed
 - [[@Ichoren]] did not seek riches but a fancy title. Happy to oblige, [[Lord Timbrel Toodlepip]] promised to decree some of his own land to [[@Ichoren]] who would henceforth be known as **Duke Ichoren Shovelhands**. The lord would arrange for the legalities to be drawn up and have these sent to [[@Ichoren]] in due course. [[@Ichoren]] was overjoyed at the prospect of getting "an acre", whatever that meant.
 - [[@Cove-Candle]] masterfully persuaded  the lord that he had been equally involved in the rescue, and requested a new ship to help him "catch the fish but not have them on the boat" - or something like that. Slightly confused at the request, [[Lord Timbrel Toodlepip]] offered to have shipwrights in either [[Morenthia]] or [[content/Places/Kingdom of Vadoria/Nordvale|Nordvale]] craft a vessel to [[@Cove-Candle]]'s design. Alternatively, he offered to allow [[@Cove-Candle]] to acquire an existing ship from those he found available, if he needed one in a hurry. 
 
-The group went inside the manor to continue the conversation. [[@Splatts]] shared information that the party had found [[The Orb]] and the [[Tear of Gamaliel]]. They showed [[Lord Ronald Squinketon]] the [[InvaderScroll.webp|scroll]]. He told the party he believed one of the amulets depicted on this was indeed his amulet, and the one next to it was likely its twin that he'd mentioned the previous day (the [[Tear of Anaiel]]). As for the others, he was not sure but did express a strange familiarity with the other amulet depicted and a feeling that he'd seen it many times before.
+The group went inside the manor to continue the conversation. [[@Splatts]] shared information that the party had found [[The Emberglass|The Orb]] and the [[Tear of Gamaliel]]. They showed [[Lord Ronald Squinketon]] the [[InvaderScroll.webp|scroll]]. He told the party he believed one of the amulets depicted on this was indeed his amulet, and the one next to it was likely its twin that he'd mentioned the previous day (the [[Tear of Anaiel]]). As for the others, he was not sure but did express a strange familiarity with the other amulet depicted and a feeling that he'd seen it many times before.
 
 Although extremely grateful for the return of the [[Tear of Gamaliel]], the lord ultimately gifted it to [[@Splatts]]. He expressed [[@Splatts]] would need it more, wherever they were going. [[@Splatts]] cautiously did not reveal the party's intended destination, and the lord did not push him any further for this information, persuaded that he should have plausible deniability.
 
