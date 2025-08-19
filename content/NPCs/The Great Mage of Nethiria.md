@@ -3,7 +3,7 @@ aliases:
   - The Great Mage
 type: NPC
 tags:
-  - Netherian
+  - Nethirian
   - Mage
 traits:
   - mysterious
