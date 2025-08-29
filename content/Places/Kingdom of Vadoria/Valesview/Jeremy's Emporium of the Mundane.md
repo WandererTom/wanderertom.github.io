@@ -1,0 +1,1 @@
+A small shed of a shop set back from the road on the edge of the village of [[Valesview]]. It has a crudley made, wobbly sign above the rickety door and dirty paned windows. Inside [[Jeremy]] eagerly awaits any customer who wishes to peruse his collection of mundane goods. 
