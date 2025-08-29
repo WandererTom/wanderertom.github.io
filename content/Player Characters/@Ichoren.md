@@ -3,7 +3,7 @@ title: "@Ichoren"
 draft: false
 tags:
 ---
-Name: Ichoren Clay (officially Duke Ichoren Shovelhands)  
+Name: Ichoren Clay (officially Count Ichoren Shovelhands)  
 Kin: Elf  
 Age: Young  
 Profession: Artisan (Carpenter)  

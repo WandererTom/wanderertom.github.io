@@ -1,0 +1,1 @@
+A large lake located directly south of [[Vadoria City]], and the primary tributary to the [[Evervein]]. 
