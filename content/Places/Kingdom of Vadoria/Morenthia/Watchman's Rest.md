@@ -1,0 +1,1 @@
+A large tavern located in the Bridgeward district of [[Morenthia]].
