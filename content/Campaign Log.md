@@ -247,11 +247,11 @@ Taking advantage of their new and unexpectedly lofty status, the party went into
 
 "What did you say dear?" said the proprietor. "Oh no, we don't talk about them. Have yourself another mead and forget your troubles."
 
-She passed [[@Ichoren]] another flagon and the rest of the patrons went back to their business. Leaning in, she spoke with him in a quiet voice. She explained that the city was unsettled with all that was going on, she he'd better be careful of what he spoke. She told him of the mysterious recent disappearance of their beloved major, **Alron Noon**. A man of seemingly little influence, [[Denarin Varn]], had since managed to insert himself as the mayor and had now invoked a curfew. She advised [[@Ichoren]] to be careful going out after midnight. The [[Shining Daggers]] were under his control, and he seemed to have influence over many guilds and nobles - she was convinced most of them were afraid of him. She said only the Blinders seem to be against them, albeit they didn't have the strength to take them on directly.
+She passed [[@Ichoren]] another flagon and the rest of the patrons went back to their business. Leaning in, she spoke with him in a quiet voice. She explained that the city was unsettled with all that was going on, she he'd better be careful of what he spoke. She told him of the recent mysterious disappearance of their beloved mayor, **Alron Noon**. Another man named [[Denarin Varn]] had since managed to insert himself as the mayor and had now invoked a curfew. She advised [[@Ichoren]] to be careful going out after midnight. The [[Shining Daggers]] were under Varn's control, and he seemed to have influence over many guilds and nobles - she was convinced most of them were afraid of him. She said only the Blinders seem to be against them, albeit they didn't have the strength to take them on directly.
 
-Whilst [[@Ichoren]] and [[@Splatts]] sat at the bar engaged in conversation, unbeknown to them four hooded figured entered the tavern, and disappeared discreetly up the stairs...
+Whilst [[@Ichoren]] and [[@Splatts]] sat at the bar engaged in conversation, unbeknown to them four hooded figures entered the tavern, and disappeared discreetly up the stairs...
 
-Within moments, [[@Jack]], [[@Kirou]], and [[@Zharek]]—each in their respective rooms—awoke to see a figure stood at the end of their bed, steel blade raised above them and poised to strike. Only [[@Zharek]] roused sufficiently to not succumb to the ambush.
+Within moments, [[@Jack]], [[@Kirou]], and [[@Zharek]]—each in their respective rooms—awoke to see a figure stood at the end of each of their beds, steel blades raised above them and poised to strike. Only [[@Zharek]] was sufficiently alert to not succumb to the ambush.
 
 As the attackers brought down their blades, by chance most of the party managed to avoid the initial strikes, and feathers erupted from bedding as swords cut deep.
 
