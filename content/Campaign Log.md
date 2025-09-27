@@ -88,7 +88,7 @@ The party gathered themselves and braced for what awaited them in the decks belo
 
 ## Session 3 (18/07/25)
 *Triad 749, Luminar 100 (Daytime), Valesview*  
-[[@Jack]], [[@Ichoren]], [[@Splatts]],[[@Zharek]]
+[[@Jack]], [[@Ichoren]], [[@Splatts]], [[@Zharek]]
 
 Having ambushed and cleared the soldiers from the top deck of the ship, the party wasted no time in heading below. [[@Ichoren]] charged down in a rage, and the others ran to keep up.
 
@@ -146,7 +146,7 @@ Determined to keep the note and [[The Emberglass|The Orb]] a secret, for now, th
 
 ## Session 4 (16/08/25)
 *Luminar 100 (Evening), Valesview*  
-[[@Jack]], [[@Ichoren]], [[@Splatts]],[[@Zharek]], [[@Cove-Candle]]
+[[@Jack]], [[@Ichoren]], [[@Splatts]], [[@Zharek]], [[@Cove-Candle]]
 
 Weary from the events on the invader ship, the party arrived back at the grounds of [[Squinketon Manor]] where they found [[@Cove-Candle]] awaiting them. They showed him [[The Emberglass|The Orb]] and what they'd found during their rescue of [[Commander Eladar Squinketon]].
 
@@ -181,7 +181,7 @@ The party made their way towards the general store **Finch's Fings** indenting t
 
 ## Session 5 (28/08/25)
 *Luminar 101 (Morning), Valesview*  
-[[@Jack]], [[@Ichoren]], [[@Splatts]],[[@Zharek]]
+[[@Jack]], [[@Ichoren]], [[@Splatts]], [[@Zharek]]
 
 As the party made their way towards Finch's Fings, [[Lord Ronald Squinketon|Lord Squinketon]] hastily caught up to them on his steed. Eager to speak to [[@Ichoren]], he awkwardly explained he might have been a tad hasty naming him a Duke but instead offered a lesser rank of nobility that was within his means to bestow. [[@Ichoren]] decided Count was the most befitting title for him.
 
@@ -219,7 +219,7 @@ Eager to find [[@Cove-Candle]]'s boat and continue their journey, the party made
 
 ## Session 6 (12/09/25)
 *Luminar 101 (Afternoon), Morenthia*  
-[[@Jack]], [[@Ichoren]], [[@Splatts]],[[@Zharek]], [[@Cove-Candle]], [[@Kirou]]
+[[@Jack]], [[@Ichoren]], [[@Splatts]], [[@Zharek]], [[@Cove-Candle]], [[@Kirou]]
 
 As the party approached the western gate of [[Morenthia]], they heard the sound of hoofs from behind them. They saw a member of [[Lord Ronald Squinketon|Lord Squinketon]]'s household guard who brought with him mounted on his steed [[@Cove-Candle]] and [[@Kirou]]. He dropped them with the party, berated [[@Jack]] for not looking after his son, and rode off again.
 
@@ -239,3 +239,42 @@ Intending to head towards the docks to collect [[@Cove-Candle]]'s promised boat,
 
 Taking advantage of their new and unexpectedly lofty status, the party went into the tavern for some much needed rest. Gifted free board, most of the party retired upstairs to their chambers, leaving [[@Ichoren]] and [[@Splatts]] downstairs. [[@Ichoren]] took the opportunity to ask the proprietor about [[The Cabal of the Sundered Stone|The Cabal]]...
 
+## Session 7 (27/09/25)
+*Luminar 101 (Evening), Morenthia*  
+[[@Jack]], [[@Ichoren]], [[@Splatts]], [[@Zharek]], [[@Kirou]]
+
+... A hush fell over the tavern. Somewhere near the back someone gasped. All eyes turned to stare at [[@Ichoren]] as his words asking about [[The Cabal of the Sundered Stone|The Cabal]] left his mouth.
+
+"What did you say dear?" said the proprietor. "Oh no, we don't talk about them. Have yourself another mead and forget your troubles."
+
+She passed [[@Ichoren]] another flagon and the rest of the patrons went back to their business. Leaning in, she spoke with him in a quiet voice. She explained that the city was unsettled with all that was going on, she he'd better be careful of what he spoke. She told him of the mysterious recent disappearance of their beloved major, **Alron Noon**. A man of seemingly little influence, [[Denarin Varn]], had since managed to insert himself as the mayor and had now invoked a curfew. She advised [[@Ichoren]] to be careful going out after midnight. The [[Shining Daggers]] were under his control, and he seemed to have influence over many guilds and nobles - she was convinced most of them were afraid of him. She said only the Blinders seem to be against them, albeit they didn't have the strength to take them on directly.
+
+Whilst [[@Ichoren]] and [[@Splatts]] sat at the bar engaged in conversation, unbeknown to them four hooded figured entered the tavern, and disappeared discreetly up the stairs...
+
+Within moments, [[@Jack]], [[@Kirou]], and [[@Zharek]]—each in their respective rooms—awoke to see a figure stood at the end of their bed, steel blade raised above them and poised to strike. Only [[@Zharek]] roused sufficiently to not succumb to the ambush.
+
+As the attackers brought down their blades, by chance most of the party managed to avoid the initial strikes, and feathers erupted from bedding as blades cut deep.
+
+Blades clashed and blood was spilled. Lots of blood. [[@Jack]] took a brutal blow, but fought fiercely in a fight to the death. [[@Zharek]] managed to fight his way out of his room, and fled into the corridor. [[@Kirou]] wasted no time in dispatching his foe with a brutal blow of his dark dagger.
+
+As the commotion unfolded on the floor above them—and blood dropped from the floorboards—[[@Splatts]] and [[@Ichoren]] ran upstairs to aid their companions. [[@Splatts]] immediately came face-to-face with an attacker on the landing, and suffered a deep cut from her blade. [[@Ichoren]] quickly came to his aid to vanquish the enemy.
+
+[[@Kirou]] darted out from his room to the aid of the severely injured [[@Jack]], cutting down another of the attackers. As the party congregated in the hallway, the remaining attacker swung wildly at [[@Zharek]] before he realised his imminent demise and pleaded for his life. [[@Zharek]] punched him in the face. But [[@Zharek]]'s fortune did not hold, as he was horrifically struck down from behind by a wayward throw of [[@Jack]]'s knife.
+
+Having just seen one of his intended victims inexplicably take out another, the last attacker hesitated for a brief moment before seizing opportunity to search [[@Zharek]] for... something. He seemingly did not find what he sought because he darted off in frustration, fleeing from the party. He did not make it far, however, because [[@Kirou]] plucked the blade from [[@Zharek]]'s wound and launched it with precision towards the attacker, and the strike caused the hooded attacker's lifeless body to crash to the floor and slide to a halt.
+
+The party collected themselves and—after finding some bandages from the proprietor—managed to heal [[@Zharek]]. They discussed what happened and realised the attackers were looking for something—this was a targeted attack. [[@Ichoren]] examined the attackers to find they were human, and aside from wearing dark cloaks, had the appearance of common folk.
+
+[[@Kirou]] dragged one of the bodies downstairs, much to the displeasure of the proprietor. He learned from one of the patrons the body was of **Jimmy Who**, a typically friendly fellow who lived on a farm just outside the city. At the request of the proprietor, who decided she could not call upon the [[Valeguard]] and it would be best not to involve the [[Shining Daggers]], [[@Kirou]] took the body around the back to hide it.
+
+As the party rested to recover from the evening's events, [[@Ichoren]] sat watch in the hallway. After a time he observed a figure approach him. The visitor passed him, picked up a nearby body of one of the attackers, unceremoniously dumped it out of sight in an empty room, and returned. [[@Ichoren]] now saw before him a cat-person, dressed all in black, and under her hooded cloak glinted one bright eye and one dull with haze. 
+
+"You draw too much attention to yourself, elf", she said. "The Cabal don't take kindly to those who ask too many questions."
+
+During a brief and decidedly vague conversation, [[@Ichoren]] learned from the mysterious visitor that [[The Cabal]] have spies all over, and have corrupted even the highest echelons of the city. They ruthlessly protect their identities. She said there is turmoil in their ranks now. They have lost something precious to them, and the invasion has resulted in a seismic shift in their urgency to gain power. Ending the conversation, she uttered, "Brynna sends message. Be careful who you trust. They will stop at nothing to find you." Before [[@Ichoren]] could respond, she disappeared into the shadows.
+
+As the sun rose and the party took to breakfast, [[@Ichoren]] relayed his conversation with the visitor, careful not to openly mention [[The Cabal of the Sundered Stone|The Cabal]]. The party decided they should investigate Jimmy Who's farm to try and understand why they were attacked, and so set out of the West Gate. They exchanged pleasantries with Big Gertha as they passed by.
+
+They found the farm oddly quiet. Their terrible efforts to stake it out quickly drew the attention of an occupant who beckoned them forward from a window, and waved with urgency. Inside they met the elderly Dorothy, mother to Jimmy, and grandmother to Jimmy's two (now orphan) children named Jimmy Junior and Elana. [[@Splatts]] broke the news of Jimmy's demise, albeit was perhaps slightly vague on some of the facts. Dorothy explained that Jimmy had been taken the previous night from his bed by terrifying "red skinned devils", who had spoken to him with words she did not understand. Her—always a good lad—Jimmy seemed terrified, and they had not seen him since. She couldn't believe he would attack anyone.
+
+The party escorted the family to the safety of [[Morenthia]], before returning to the [[Watchman's Rest]] to pick up [[Tibbin (Tibs) Figleaf|Tibs]] who was thankfully still there happily enjoying his third breakfast (much to [[@Ichoren]]'s relief). They determined to take [[Tibbin (Tibs) Figleaf|Tibs]] to the Merchant's Guild (at his suggestion), and then head up the the dock's to continue with their plan to collect [[@Cove-Candle]]'s new boat...
