@@ -1,0 +1,3 @@
+Home of the Merchant's Guild in the city of [[Morenthia]].
+
+> *An ostentatious building with a façade marked by long **arcades of pillars**, their bases carved into stylized lions, ships, and bales of goods, a proud declaration of commerce and trade. The building’s entrance is guarded by brass doors polished daily until they shine like mirrors. Inside its wide, arched windows, golden light flickers on account ledgers and glimmers on trade banners hung from the rafters. Above the entrance, a grand crest of Morenthia’s Merchant’s Guild has been chiseled into the lintel: a **pair of crossed scales upon a ship’s wheel**, a reminder that in this hall, gold and goods often wield more power than steel or law.*

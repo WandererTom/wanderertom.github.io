@@ -1,0 +1,1 @@
+An inn located in the western part of [[Morenthia]], on the border between the Bridgeward district and the Industrial Quarter. Owned by the [[Beaky Blinders]].

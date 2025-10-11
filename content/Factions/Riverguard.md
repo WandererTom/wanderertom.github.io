@@ -1,0 +1,1 @@
+A small element of the [[Valeguard]] designated with maintaining law and order on the rivers that flow through the [[Kingdom of Vadoria]], and protecting sailors from pirates and other threats.

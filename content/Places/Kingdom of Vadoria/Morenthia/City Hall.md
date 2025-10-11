@@ -1,0 +1,5 @@
+The centre of power and authority in [[Morenthia]], and home to the judiciary and the mayor. 
+
+> *A colossal edifice of pale-grey stone quarried from the mountains that gave birth to Morenthia itself. It rises like a mountain of authority above the cobbled square, its sheer façade broken by carved reliefs of past rulers, dragons, and ancient battles. The front is dominated by a **broad flight of monumental steps**, worn smooth by centuries of feet, leading to a pair of **towering oak doors banded in black iron**, each carved with intricate spirals of vines and suns.*
+> 
+> *Tall arched windows line the first and second stories, their glass panes flecked with colored gems that catch the sunlight like sparks of fire. The second floor culminates in a **roof garden**, where olive trees, fragrant herbs, and climbing roses sprawl against low stone walls, a display of ostentatious leisure for the city’s elite. The very air around City Hall seems heavier, charged with the weight of decrees, judgments, and secrets whispered behind its walls.*
