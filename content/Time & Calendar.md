@@ -24,7 +24,7 @@
 |          | 114 |        | `[ ][ ][ ][ ]` |                              |
 |          | 115 |        | `[ ][ ][ ][ ]` |                              |
 |          | 116 |        | `[ ][ ][ ][ ]` |                              |
-|          | 117 |        | `[ ][ ][ ][ ]` |                              |
+|          | 117 |        | `[ ][ ][ ][ ]` | The Day of Long Shadows      |
 |          | 118 |        | `[ ][ ][ ][ ]` |                              |
 |          | 119 |        | `[ ][ ][ ][ ]` |                              |
 |          | 120 |        | `[ ][ ][ ][ ]` |                              |
@@ -112,6 +112,7 @@
 
 - Luminar 1 - Light's Coming
 - Luminar 100 - The Everday
+- Luminar 117 - The Day of Long Shadows
 - Luminar 190 - Festival of The Fading
 - Stomrund 1 - 
 - Bleak 1 - Frostborn
