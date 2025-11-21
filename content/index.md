@@ -10,8 +10,8 @@ You can read about each session in the [[Campaign Log]].
 The player characters in this campaign are:
 
 [[@Jack]]  
-[[@Kirou]]  
 [[@Zharek]]  
 [[@Splatts]]  
 [[@Ichoren]]  
 [[@Cove-Candle]]  
+[[@Kirou]] (retired)  
