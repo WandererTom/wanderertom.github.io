@@ -404,7 +404,7 @@ When the party regrouped at the [[Watchman's Rest]], they discreetly read the sc
 
 The party contemplated the letter and discerned they now had the evidence the [[Beaky Blinders]] had sought. They decided their next steps were to take it to them and then make their move to escape the city and continue on their journey to [[Alzar's Tower]]...
 
-## Session 10 (21/11/25)
+## Session 10 (20/11/25)
 *Luminar 102 (Afternoon), Morenthia*  
 [[@Ichoren]], [[@Splatts]], [[@Zharek]], [[@Cove-Candle]]
 
