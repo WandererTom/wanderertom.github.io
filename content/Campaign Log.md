@@ -403,3 +403,44 @@ When the party regrouped at the [[Watchman's Rest]], they discreetly read the sc
 > — Stamped with the symbol of a stone split in two.
 
 The party contemplated the letter and discerned they now had the evidence the [[Beaky Blinders]] had sought. They decided their next steps were to take it to them and then make their move to escape the city and continue on their journey to [[Alzar's Tower]]...
+
+## Session 10 (21/11/25)
+*Luminar 102 (Afternoon), Morenthia*  
+[[@Ichoren]], [[@Splatts]], [[@Zharek]], [[@Cove-Candle]]
+
+At the [[Watchman's Rest]], the party discussed [[Denarin Varn|Denarin]]'s letter and that it had revealed the city was likely controlled by the [[The Cabal of the Sundered Stone]]. [[@Zharek]] realised the key he found in the vault must be the same referred to in this letter—the key to their [[Everwood]] domain. They formed a plan to visit the [[Beaky Blinders]] and show them the letter as agreed, but decided to hold back on sharing the key. First, they would get some rest.
+
+From the shadows in the corner of his bedchamber, [[@Ichoren]] was greeted by a familiar pair of eyes that pierced through the darkness—one bright, the other hazy and dull. The cat-person he had encountered before leaned forward and spoke softly. "Do you see it now," she asked, "the grip they have on everything?" During a hushed and cryptic conversation, [[@Ichoren]] learned that Brynna had wanted him to see for himself the hold the [[The Cabal of the Sundered Stone|The Cabal]] had on everything, and how they squeezed the necks of those in power. They want *everything*. She told [[@Ichoren]] his true purpose—the reason for his existence—might not be what he first thought. Brynna believed in her heart that [[@Ichoren]] was the key to the destruction of [[The Cabal of the Sundered Stone|The Cabal]]. Once again, before [[@Ichoren]] could learn her name, she vanished through an open window into the city beyond. 
+
+At breakfast [[@Ichoren]] told the party about his visit, perplexed by the cryptic nature of their conversation. The party decided to stock up on some goods nearby and then head over to the [[Wobbly Lantern]] in search of the [[Beaky Blinders]].
+
+At the [[Wobbly Lantern]] they met [[Tommy Billby]], and were invited to a private back room to discuss recent events. [[Tommy Billby|Tommy]] poured them each a glass of whiskey and knocked his own drink back. [[@Splatts]] did the same and held it together, just. [[@Ichoren]] wasn't quite so successful. [[@Zharek]] presented the letter he had discovered in [[Denarin Varn]]'s vault. [[Tommy Billby|Tommy]] was intrigued, not only by the letter but also by the discovery of the large chest of gold. He expressed perhaps he would have not have chosen to steal gold he though belonged to [[The Cabal of the Sundered Stone]]. 
+
+Having discovered who was really in control of [[Denarin Varn]] and the city, [[Tommy Billby|Tommy]] kept to his word. He said the [[Beaky Blinders|Blinders]] could help take care of the [[Shining Daggers]] guarding the dockyard, enough so that the party could escape. He asked one more thing of them—that they find likeminded people on their journey and ask them to come to [[Morenthia]] to fight alongside the [[Beaky Blinders|Blinders]]. With support, they could take the city once and for all. He mentioned a mercenary group near to the [[Everwood]], and [[@Ichoren]] recalled [[Lord Timbrel Toodlepip|Lord Toodlepip]] had told him of the [[Bladedancers]].
+
+As the party left to enact their plan, [[@Zharek]] had another idea. He returned to [[Tommy Billby|Tommy]] and suggested he could help with a more *explosive* entrance. [[Tommy Billby|Tommy]] smiled, and invited [[@Zharek]] into another back room where the [[Beaky Blinders|Blinders]] prepared themselves for the assault—and one was packing several sticks of dynamite. [[Tommy Billby|Tommy]] handed [[@Zharek]] a satchel and allowed him to take several sticks for himself.
+
+At the docks, the party gathered in preparation for the assault. Ahead of them the [[Beaky Blinders]] lined up in silent formation alongside the nearby buildings. [[@Zharek]] took to the skies, and gained a vantage high above the dockyard. Below him he saw clusters of [[Shining Daggers]] guarded the entrance to the docks and the jetties, but soon identified his prime target—the orc named [[Draz Steelfist]] who was stood briefing a group of [[Shining Daggers|Daggers]] gathered around him. [[@Zharek]] charged his Power Fist and unleashed fire from the skies with a precision strike.
+
+The ground trembled as rock, brick, and mortar was blown high into the air. Bedlam erupted. The [[Beaky Blinders]] charged. The party rushed through the dockyard and dashed towards [[Oona Gentlebreeze|Oona's]] shipyard and their moored boat beyond. As they ran, rubble and dust rained down upon them. They passed scores of [[Beaky Blinders|Blinders]] who launched themselves at confused and stunned [[Shining Daggers|Daggers]]. Blades flashed, blood spurted, and a huge smoking crater in the ground contained the tattered remains of an orc and several other unfortunate souls.
+
+Ahead of them, a petrified [[Shining Daggers|Dagger]] stood on the jetty and watched in awe as the chaos unfolded before him and the party charged him down. [[@Ichoren]] crashed through him and sent him flying into the water with a splash. The party finally reached their boat—the majestic elven sloop [[@Cove-Candle]] had selected.
+
+From behind them, loud above the din of battle, the party heard the disconcerting shrill scream of [[Denarin Varn]]—"GET THEEEEEEEEEM!" They saw a group of angry mallards dashed through the battle towards their ship—the dark pirate brigantine docked a short distance further down. The race was on.
+
+[[@Cove-Candle]], [[@Ichoren]], and [[@Splatts]] boarded their sloop and furiously prepared to disembark. [[@Zharek]] took once again to the skies, bound this time for the [[Black Oars]]'s brigantine with his satchel and a few leftover sticks of dynamite to hand.
+
+With [[@Cove-Candle]] at the helm, the party hoisted the sails, raised the anchor, and set sailed—albeit with a slight delay as they were still moored to the dock. Fortunately for them, in their desperate rush the [[Black Oars]] had all but forgotten their seafaring expertise and fumbled their key tasks.
+
+As [[@Splatts]] expertly unhitched the moor lines and released their vessel, [[@Zharek]] commenced his second bombing run of the day. He delivered his payload precisely onto the fore mast of the pirate's vessel, and transformed the large wooden mast into a myriad of fragments. 
+
+[[@Cove-Candle]] steered the sloop expertly between several moored and anchored vessels ahead, aided by [[@Ichoren]] who navigated and [[@Splatts]] who harnessed the wind in the sails. The infuriated [[Blackbeak]] took control of his own vessel, and they limped after their quarry whilst his crew desperately repaired the damaged mast. [[@Zharek]] did not let up and delivered another brutal blow from the skies, and this time blasted a hole deep into the deck.
+
+It turned out the so-called expert seafarers of the [[Black Oars]] were no match for [[@Cove-Candle]] and his newly formed crew. As the wind changed, the new crew propelled themselves forward and [[@Cove-Candle]] steered the vessel with aplomb under the city's bridge and around several oncoming small boats. They left the [[Black Oars]] in their distant wake.
+
+With the city of [[Morenthia]] behind them, the party entered the [[Evervein]] proper and embarked on their maiden voyage. The sails gently flapped in the breeze as they cruised down the river and reflected on the day's events. [[@Cove-Candle]] stared into the distance as he tried to recall the name of his last boat, and the party discussed options for the name of their new glorious vessel.
+
+With the wind in their sails, the party coursed towards [[Nordvale]] and beyond...
+
+
+
