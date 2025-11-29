@@ -16,3 +16,5 @@ motivations:
 encountered: false
 ---
 A large and imposing orc, missing one ear. Leader of the [[Shining Daggers]].
+
+Deceased (Luminar 102). Cause of death: explosion resulting from a stick of dynamite thrown by [[@Zharek]] at the docks of [[Morenthia]].

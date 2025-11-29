@@ -1,0 +1,1 @@
+An ancient woodland in the [[Kingdom of Vadoria]] located east of [[Omen's Deep]].

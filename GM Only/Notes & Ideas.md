@@ -1,13 +1,13 @@
 
 Nations: Kingdom of Verdoria, Nerithian Empire, Dunren, Xendir
 
-Queen Amira Aurelwyn
+Queen Alira Aurelwyn
 Emperor Nyin
 Highlord Xar
 Chief Protector Unstone
 
 
-Zarak - Karkion Mage (Liam)
+Zharak - Karkion Mage (Liam)
 - Tiger stripes, teal robes
 
 Jack Wolfskin - Wolfkin Merchant (Rich)

@@ -1,0 +1,1 @@
+A city located just east of centre in the [[Kingdom of Vadoria]], on the water's edge of [[Lake Omen]] and between the [[Nuswood]] and the [[Everwood]].

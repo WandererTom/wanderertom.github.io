@@ -1,6 +1,6 @@
 ---
 title: Campaign Log
-draft: false
+draft: true
 tags:
 ---
 ## Session 1 (20/06/25)

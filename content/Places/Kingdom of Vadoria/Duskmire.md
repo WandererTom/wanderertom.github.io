@@ -1,0 +1,1 @@
+A dilapidated fishing villages on the eastern border of the [[Kingdom of Vadoria]], on the edge of the [[Weeping Deep]].

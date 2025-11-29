@@ -1,0 +1,1 @@
+A large inland lake in the [[Kingdom of Vadoria]], for which the [[Evervein]] river is the primary tributary.

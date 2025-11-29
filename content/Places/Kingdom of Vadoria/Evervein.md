@@ -1,1 +1,1 @@
-A major river in the [[Kingdom of Vadoria]] flowing from [[Vadoria City]] to [[Omen's Deep]].
+A major river in the [[Kingdom of Vadoria]] flowing from [[Vadoria City]] to [[Omen's Deep (GM)]].
