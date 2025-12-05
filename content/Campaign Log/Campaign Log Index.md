@@ -10,5 +10,6 @@
 [[Session 8 (09-10-2025)]] - Blood on the Cobblestones  
 [[Session 9 (07-11-2025)]] - Heist of City Hall  
 [[Session 10 (20-11-2025)]] - A Frantic Disembark  
+[[Session 11 (04-12-2025)]] - Nordvale
 
-Next session: 04-12-2025  
+Next session: 18-12-2025  
