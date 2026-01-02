@@ -12,5 +12,6 @@
 [[Session 10 (20-11-2025)]] - A Frantic Disembark  
 [[Session 11 (04-12-2025)]] - Nordvale  
 [[Session 12 (18-12-2025)]] - A Devastating Discovery  
+[[Session 13 (01-01-2026)]] - Unscrupulous Demands  
 
-Next session: 01-01-2026  
+Next session: 15-01-2026  
