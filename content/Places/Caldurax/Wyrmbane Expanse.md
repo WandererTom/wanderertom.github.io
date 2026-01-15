@@ -1,0 +1,1 @@
+The area that was once the location of the great floating cities of [[Caldurax]].

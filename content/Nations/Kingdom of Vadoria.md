@@ -2,6 +2,8 @@
 title: Kingdom of Vadoria
 draft: false
 tags:
+aliases:
+  - Vadoria
 ---
 The kingdom comprised of the western landmass of [[Alethyria]] and surrounding islands to the north and west.
 
