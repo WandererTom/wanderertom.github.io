@@ -4,6 +4,7 @@ type: NPC
 tags:
   - Mage
   - Vadorian
+  - Frog-person
 traits:
   - quirky
   - forgetful
@@ -16,8 +17,6 @@ motivations:
   - impartial
 encountered: false
 ---
-A mage who resides in [[Alzar's Tower]].
+A great mage who resides in [[Alzar's Tower]]. A small and very old frog kin, with bright green wrinkly skin, huge eyes magnified by even bigger spectacles, and a pointy hat that had obviously been patched many more times than it should’ve been.
 
-Entrusted by [[Lord Ronald Squinketon]] to examine the shard of a sword.
-
-[[The Queen's Note]] directed the bearer of [[The Emberglass|The Orb]] to him.
+Member of the [[Order of the Watchful Mages]].
