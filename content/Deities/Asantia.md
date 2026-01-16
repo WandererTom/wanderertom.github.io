@@ -3,4 +3,6 @@ title: Asantia
 draft: false
 tags:
 ---
-Goddess of beauty and life.
+The goddess of beauty and life.
+
+Her priests often wear floral crowns or robes embroidered with delicate vines.
