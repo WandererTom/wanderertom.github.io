@@ -13,6 +13,6 @@
 [[Session 11 (04-12-2025)]] - Nordvale  
 [[Session 12 (18-12-2025)]] - A Devastating Discovery  
 [[Session 13 (01-01-2026)]] - Unscrupulous Demands  
-[[Session 14 (04-01-2026)]] - Alzar's Tower  
+[[Session 14 (14-01-2026)]] - Alzar's Tower  
 
 Next session: 29-01-2026  
