@@ -12,6 +12,6 @@ encountered: true
 profession:
   - Animal
 ---
-A little red-breasted robin who lives with [[Uthimial]] and [[Alzar's Tower]].
+A little red-breasted robin who lives with [[Uthimial]] at [[Alzar's Tower]].
 
 Has a penchant for pickled onions.

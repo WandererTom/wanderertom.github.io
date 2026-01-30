@@ -14,5 +14,6 @@
 [[Session 12 (18-12-2025)]] - A Devastating Discovery  
 [[Session 13 (01-01-2026)]] - Unscrupulous Demands  
 [[Session 14 (14-01-2026)]] - Alzar's Tower  
+[[Session 15 (29-01-2026)]] - Revelations  
 
-Next session: 29-01-2026  
+Next session: 12-02-2026  

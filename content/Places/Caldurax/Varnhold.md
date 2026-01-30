@@ -1,0 +1,1 @@
+The capital city of the [[Caldurax|Kingdom of Caldurax]].

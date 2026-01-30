@@ -1,0 +1,1 @@
+A huge, hollowed out ancient oak tree in [[Eldergrove]], home to [[Ysaria]]. Moss drapes down its outside, and inside is shelf-after-shelf of dusty bottles, each storing a captured memory.
