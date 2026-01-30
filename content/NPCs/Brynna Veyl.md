@@ -18,4 +18,4 @@ encountered: false
 ---
 Member of the [[The Cabal of the Sundered Stone|The Cabal]]. A gifted dwarven artificer.
 
-Helped create [[GM Ichoren Clay (Squinky)]] and ultimately aided his escape.
+Helped create [[@Ichoren]] and ultimately aided his escape.
