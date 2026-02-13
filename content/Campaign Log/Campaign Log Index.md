@@ -15,5 +15,6 @@
 [[Session 13 (01-01-2026)]] - Unscrupulous Demands  
 [[Session 14 (14-01-2026)]] - Alzar's Tower  
 [[Session 15 (29-01-2026)]] - Revelations  
+[[Session 16 (12-02-2026)]] - The Cabal  
 
-Next session: 12-02-2026  
+Next session: 26-02-2026  
