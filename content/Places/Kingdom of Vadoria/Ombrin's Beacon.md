@@ -1,0 +1,1 @@
+A mountain in the southern part of the [[Kingdom of Vadoria]] overlooking the [[Disputed Lands]].

@@ -16,5 +16,6 @@
 [[Session 14 (14-01-2026)]] - Alzar's Tower  
 [[Session 15 (29-01-2026)]] - Revelations  
 [[Session 16 (12-02-2026)]] - The Cabal  
+[[Session 17 (26-02-2026)]] - Duskmire  
 
-Next session: 26-02-2026  
+Next session: 15-03-2026  

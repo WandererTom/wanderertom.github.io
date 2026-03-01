@@ -14,8 +14,8 @@
 |          | 104 |        | `[X][X][X][X]` | Start of the *Festival of Yungentine* ([[Omen's Deep]]). **[[Um’brathir]] set a deadline.** |
 |          | 105 |        | `[X][X][X][X]` | **Arrived at [[Alzar's Tower]].**                                                           |
 |          | 106 |        | `[X][X][X][X]` | Arrived at [[Eldergrove]].                                                                  |
-|          | 107 | X      | `[X][ ][ ][ ]` |                                                                                             |
-|          | 108 |        | `[ ][ ][ ][ ]` |                                                                                             |
+|          | 107 |        | `[X][X][X][X]` | Went into the Cabal Everwood base.<br>Arrived at [[Duskmire]] in the evening.               |
+|          | 108 | X      | `[X][ ][ ][ ]` |                                                                                             |
 |          | 109 |        | `[ ][ ][ ][ ]` |                                                                                             |
 |          | 110 |        | `[ ][ ][ ][ ]` |                                                                                             |
 |          | 111 |        | `[ ][ ][ ][ ]` |                                                                                             |
