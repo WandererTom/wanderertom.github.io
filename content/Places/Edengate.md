@@ -1,0 +1,1 @@
+A huge barred gate that is the only known entrance to [[Asantia's Blessing]] from the [[Kingdom of Vadoria]].

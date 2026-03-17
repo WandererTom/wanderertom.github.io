@@ -17,5 +17,6 @@
 [[Session 15 (29-01-2026)]] - Revelations  
 [[Session 16 (12-02-2026)]] - The Cabal  
 [[Session 17 (26-02-2026)]] - Duskmire  
+[[Session 18 (15-03-2026)]] - The Wall  
 
-Next session: 15-03-2026  
+Next session: 05-04-2026  
