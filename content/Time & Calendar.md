@@ -16,9 +16,9 @@
 |          | 106 |        | `[X][X][X][X]` | Arrived at [[Eldergrove]].                                                                  |
 |          | 107 |        | `[X][X][X][X]` | Went into the Cabal Everwood base.<br>Arrived at [[Duskmire]] in the evening.               |
 |          | 108 |        | `[X][X][X][X]` | Arrived at [[Ombrin's Beacon]].                                                             |
-|          | 109 | X      | `[X][ ][ ][ ]` | Arrived at [[Asantia's Blessing]].                                                          |
-|          | 110 |        | `[ ][ ][ ][ ]` |                                                                                             |
-|          | 111 |        | `[ ][ ][ ][ ]` |                                                                                             |
+|          | 109 |        | `[X][X][X][X]` | Arrived at [[Asantia's Blessing]].                                                          |
+|          | 110 |        | `[X][X][X][X]` |                                                                                             |
+|          | 111 | X      | `[X][ ][ ][ ]` |                                                                                             |
 |          | 112 |        | `[ ][ ][ ][ ]` |                                                                                             |
 |          | 113 |        | `[ ][ ][ ][ ]` |                                                                                             |
 |          | 114 |        | `[ ][ ][ ][ ]` |                                                                                             |

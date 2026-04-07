@@ -18,5 +18,6 @@
 [[Session 16 (12-02-2026)]] - The Cabal  
 [[Session 17 (26-02-2026)]] - Duskmire  
 [[Session 18 (15-03-2026)]] - The Wall  
+[[Session 19 (05-04-2026)]] - Asantia's Blessing  
 
-Next session: 05-04-2026  
+Next session: 19-04-2026  
