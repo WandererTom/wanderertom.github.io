@@ -1,0 +1,1 @@
+Once a great mountain of an unknown name in [[Asantia's Blessing]], now a desolate rocky ruin having been destroyed in [[The Rending]].
