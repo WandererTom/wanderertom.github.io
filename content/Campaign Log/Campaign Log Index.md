@@ -20,7 +20,7 @@
 [[Session 18 (15-03-2026)]] - The Wall  
 [[Session 19 (05-04-2026)]] - Asantia's Blessing  
 [[Session 20 (19-04-2026)]] - Ghostly Visions  
-[[Session 21 (03-05-2026)]] - Edenfall 
+[[Session 21 (03-05-2026)]] - Edenfall  
 [[Session 22 (17-05-2026)]] - Nethirial  
-
+  
 Next session: 31-05-2026  
