@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Hand of the Emperor
 type: NPC
 tags:
   - Elf

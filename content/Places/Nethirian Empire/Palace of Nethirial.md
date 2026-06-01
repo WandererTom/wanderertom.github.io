@@ -1,0 +1,1 @@
+A majestic stone building located in the centre of [[Nethirial]]. Residence of the [[Emperor of Nethiria]].  
