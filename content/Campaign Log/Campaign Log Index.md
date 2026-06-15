@@ -23,5 +23,6 @@
 [[Session 21 (03-05-2026)]] - Edenfall  
 [[Session 22 (17-05-2026)]] - Nethirial  
 [[Session 23 (31-05-2026)]] - The Palace  
+[[Session 24 (16-06-2026)]] - Many Things Revealed  
   
-Next session: 14-06-2026  
+Next session: 28-06-2026  
