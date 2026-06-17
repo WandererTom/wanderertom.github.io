@@ -1,1 +1,1 @@
-The goddess of Harvest and Hearth.
+The goddess of harvest and hearth.
