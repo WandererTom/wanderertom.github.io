@@ -2,3 +2,4 @@
 aliases:
   - Death Gem
 ---
+A magical item of jewellery fabricated from one of the twelve stones of the [[Dawnmother's Diadem]]. 

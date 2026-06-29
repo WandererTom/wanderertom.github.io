@@ -1,1 +1,1 @@
-A tear shaped amulet said to be identical in design to the [[Tear of Gamaliel]] with the exception of the gemstone within.
+A tear shaped amulet said to be identical in design to the [[Tear of Gamaliel]] with the exception of the gemstone within. A magical item of jewellery fabricated from one of the twelve stones of the [[Dawnmother's Diadem]]. 

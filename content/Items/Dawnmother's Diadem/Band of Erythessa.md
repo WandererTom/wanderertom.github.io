@@ -1,1 +1,1 @@
-The band Erythessa, the goddess of stone and strength, is represented as a dwarf. Her Band of Erythessa was accordingly gifted to the [[Dunren]] for safekeeping deep within their mountain kingdom.
+A magical item of jewellery fabricated from one of the twelve stones of the [[Dawnmother's Diadem]].  
