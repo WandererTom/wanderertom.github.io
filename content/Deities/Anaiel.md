@@ -1,0 +1,1 @@
+Goddess of silence and sorrow. Twin of [[Gamaliel]].

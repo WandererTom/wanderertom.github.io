@@ -1,3 +1,1 @@
-A mysterious collection of twelve gemstones and jewellery items.
-
-Depicted in the [[InvaderScroll.webp|scroll]] found on the [[Um’brathir]] ship.
+A colloquial name for the twelve gemstones that once formed the [[Dawnmother's Diadem]].

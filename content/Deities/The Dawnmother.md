@@ -1,0 +1,3 @@
+Creator of all things.
+
+The nations of [[Alethyria]] have forgotten The Dawnmother, knowing of only her daughters, and even many of them have been forgotten. After [[The Rending]], memories of The Dawnmother and [[The Ancients]] were lost with those who perished, or buried deep and hidden away. Only the rulers of the lands and a few very powerful individuals know of her, and keep her a closely guarded secret for fear of the past.

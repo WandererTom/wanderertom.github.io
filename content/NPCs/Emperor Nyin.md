@@ -1,6 +1,7 @@
 ---
 aliases:
   - The Emporer
+  - The Emperor
 type: NPC
 tags:
   - Elf

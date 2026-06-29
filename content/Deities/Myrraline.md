@@ -1,0 +1,1 @@
+Goddess of the knowledge and wisdom.
