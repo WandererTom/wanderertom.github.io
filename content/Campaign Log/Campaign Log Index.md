@@ -25,5 +25,6 @@
 [[Session 23 (31-05-2026)]] - The Palace  
 [[Session 24 (16-06-2026)]] - Many Things Revealed  
 [[Session 25 (28-06-2026)]] - An Emperor Freed  
+[[Session 26 (12-07-2026)]] - A Veiled Welcome  
   
-Next session: 12-07-2026  
+Next session: 26-07-2026  
