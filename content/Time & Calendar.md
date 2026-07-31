@@ -20,9 +20,9 @@
 |          | 110 |        | `[X][X][X][X]` |                                                                                             |
 |          | 111 |        | `[X][X][X][X]` |                                                                                             |
 |          | 112 |        | `[X][X][X][X]` |                                                                                             |
-|          | 113 |        | `[X][X][X][X]` | Arrived at the **Temple of Edenfall**.<br>Arrive [[Nethirial]].                             |
-|          | 114 | X      | `[X][X][ ][ ]` |                                                                                             |
-|          | 115 |        | `[ ][ ][ ][ ]` |                                                                                             |
+|          | 113 |        | `[X][X][X][X]` | Arrived at the **Temple of Edenfall**.<br>Arrived [[Nethirial]].                            |
+|          | 114 |        | `[X][X][X][X]` | Arrived at [[Veilhold]].                                                                    |
+|          | 115 | X      | `[X][ ][ ][ ]` |                                                                                             |
 |          | 116 |        | `[ ][ ][ ][ ]` |                                                                                             |
 |          | 117 |        | `[ ][ ][ ][ ]` | *The Day of Long Shadows.*                                                                  |
 |          | 118 |        | `[ ][ ][ ][ ]` |                                                                                             |
