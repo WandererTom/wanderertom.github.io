@@ -27,5 +27,6 @@
 [[Session 25 (28-06-2026)]] - An Emperor Freed  
 [[Session 26 (12-07-2026)]] - A Veiled Welcome  
 [[Session 27 (26-07-2026)]] - Beneath the Mansion  
+[[Previously, in Alethyria...]]  
   
-Next session: 09-08-2026  
+Next session: 01-11-2026  
