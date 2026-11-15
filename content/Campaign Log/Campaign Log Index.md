@@ -28,5 +28,6 @@
 [[Session 26 (12-07-2026)]] - A Veiled Welcome  
 [[Session 27 (26-07-2026)]] - Beneath the Mansion  
 [[Previously, in Alethyria...]]  
+[[Session 28 (01-11-2026)]] - The Deep One  
   
-Next session: 01-11-2026  
+Next session: 05-11-2026  

@@ -1,0 +1,54 @@
+COMBAT REMINDER
+- **Initiative** is drawn by cards each round.
+- You can choose to **wait** and delay your turn, and swap initiative with a creature whose turn comes after yours.
+- You can **move** and perform **one action**.
+	- Dash
+	- Melee attack
+	- Ranged attack
+	- Parry (reaction)
+	- Dodge (reaction)
+	- Pick up an item
+	- Equip armour/helmet
+	- First aid
+	- Rally (Persuade another PC at 0hp to rally and keep fighting)
+	- Break down door
+	- Pick lock
+	- Use item (e.g. potion)
+	- Activate ability (e.g. heroic ability)
+	- Cast spell
+	- Help another character to give them a boon to a roll in the same round
+	- Round rest (rest and recover D6 WP once per shift)
+- **Free attacks**; if you are standing within 2m of an enemy and voluntarily move away you must made an Evade roll (does not count as an action) and on a fail the enemy gets a free attack that can neither be dodged or parried.
+- **Free actions**; draw weapon, change position (e.g. stand or go prone), drop item, shout or speak a few words.
+- If you fail a roll, you can optionally **push** to reroll and take a condition (that fits the narrative).
+- ATTACKING
+	- **Natural 0 (Dragon)** = critical hit, you can choose to:
+		- Roll double the weapon's damage (before adding any damage bonus),
+		- Immediately perform a second attack against another enemy, or
+		- The enemy's armour has no effect (only if attack does piercing damage).
+	- **Natural 20 (Demon)** = you miss and cannot push the roll. You suffer a mishap.
+	- **Ranged attacks**; you get a bane if your view is partially obscured by friend or foe. 
+	- **Shove**; if you hit an enemy (NOT a monster) and your STR damage bonus is great or equal, you can shove the enemy up to 2 meters in any direction.
+	- **Prone targets**; your attack gets both a boon and an extra D6 damage.
+- DEFENDING (reactions)
+	- **Parry**; if hit in close combat and can parry with a weapon or shield. You must declare this before the enemy rolls damage. You cannot parry and dodge or parry while prone. You roll against your skill for the weapon. Parrying takes your turn, so you cannot parry if you've already had your turn this round. If your parry succeeds, you suffer no damage, but if the damage exceeds your weapons durability it is damaged and cannot be used until repaired by Crafting. You can also move both yourself and the enemy 2 meters. Piercing attacks never damage a parrying weapon or shield. Monster attacks cannot be parried unless specified. If you roll a Dragon when parrying, you perform a counter attack (unless the attacker rolled a Dragon to attack). 
+	- **Dodge**; You can try to dodge the attack by rolling to Evade. Dodging also takes your turn for the round. On a success you take no damage and can move up to 2 meters in any direction freely. Monster attacks CAN be dodge unless otherwise specified. 
+- SPECIAL ATTACKS
+	- **Find weak spot**; if your weapon is piercing, you can roll with a bane to discount the enemy's armour.
+	- **Topple**; you can try to topple the enemy instead of damaging them (they'll then be prone and suffer more damage from other attacks). This is an opposed roll with your skill in the weapon you are using and their Evade. If your weapon is Toppling, you get a boon. This cannot be dodged or parried.
+	- **Disarm**; you can try to disarm the enemy with an opposed roll between your weapon skills. This cannot be dodged or parried. If you succeed, the weapons lands D6 meters away in a direction of your choice. Does not work on shields or natural weapons. 
+	- **Grapple**; opposed Brawling rolls, cannot be dodged or parried. If you fail, you fall to the ground. If you succeed, you both fall to the ground and the enemy can neither move or perform an action except trying to break free. While you hold on you cannot perform an action or move apart from Break (at attack on them that cannot be dodged or parried). Releasing an enemy is a free action.
+- ARMOUR
+	- If you take damage from a physical attack, subtract the armour rating from the damage.
+	- If the armour completely negates the attack, the attacking weapon suffers the damage which might break it if it exceeds its durability.
+- DEATH
+	- At 0 HP you drop to the ground and risk death. You cannot move or perform actions except trying to rally.
+	- You make death rolls against your CON. After 3 successes you recover D6 HP. Taking additional damage at 0 HP counts as a failed death roll. On 3 failures you die.
+	- **Rally**; as an action you can Persuade another character within 10m to rally and keep fighting despite having 0 HP. You can try to rally yourself using your WIL with a bane.  When rallied, you continue to make death rolls.
+	- **Healing**; When you have 0 HP, another person next to you can roll Healing to save your life. On a success you heal D6 HP and stop making death rolls. Without bandage the roll gets a bane. You cannot heal yourself.
+	- **Instant death**; If you take damage in a single attack that is equal to or greater than your full HP you die instantly.
+	- **Injuries**; If you recover from 0 HP you risk a severe injury; roll against CON and on a fail you roll on the Severe Injuries table.
+- RESTING
+	- **Round rest**; recover D6 WP and no HP. Once per shift.
+	- **Stretch rest**; heal D6 HP or 2D6 HP if someone else is tending to you, recover D6 WP and one condition of your choice. Once per shift.
+	- **Shift rest**; heal all HP and WP and conditions.
