@@ -29,5 +29,6 @@
 [[Session 27 (26-07-2026)]] - Beneath the Mansion  
 [[Previously, in Alethyria...]]  
 [[Session 28 (01-11-2026)]] - The Deep One  
+[[Session 29 (15-11-2026)]] - Return to Nordvale  
   
-Next session: 05-11-2026  
+Next session: 29-11-2026  
